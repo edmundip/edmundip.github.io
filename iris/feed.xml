@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+  <title>瞳話故事</title>
+  <description>一個天真無邪的小女孩，一個童心未泯的爸爸，兩人在床上合力創作睡前小故事。</description>
+  <link>https://edmundip.github.io/iris/</link>
+  <language>zh-CN</language>
+  <itunes:author>瞳瞳爸爸</itunes:author>
+  <itunes:summary>一個天真無邪的小女孩，一個童心未泯的爸爸，兩人在床上合力創作睡前小故事。</itunes:summary>
+  <itunes:owner>
+    <itunes:name>瞳瞳爸爸</itunes:name>
+    <itunes:email>edmund.ip@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
+  <itunes:category text="Kids &amp; Family"/>
+  <copyright>瞳瞳爸爸</copyright>
+  <lastBuildDate>Mon, 27 Mar 2017 21:23:44 GMT</lastBuildDate>
+  <pubDate>Mon, 27 Mar 2017 21:23:44 GMT</pubDate>
+  <item>
+    <title>95. 鏡子世界</title>
+    <description>我們到科學館的鏡子世界參觀。</description>
+    <itunes:summary>我們到科學館的鏡子世界參觀。</itunes:summary>
+    <link>https://edmundip.github.io/iris/095.mp3</link>
+    <pubDate>Sun, 26 Mar 2017 15:36:43 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/095.mp3" length="6366511" type="audio/mp3"/>
+    <itunes:duration>00:13:16</itunes:duration>
+  </item>
+  <item>
+    <title>94. 三十年後的豆豆</title>
+    <description>三十年後，瞳瞳的同學會是怎樣呢？</description>
+    <itunes:summary>三十年後，瞳瞳的同學會是怎樣呢？</itunes:summary>
+    <link>https://edmundip.github.io/iris/094.mp3</link>
+    <pubDate>Sun, 26 Mar 2017 10:34:29 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/094.mp3" length="16202226" type="audio/mp3"/>
+    <itunes:duration>00:33:45</itunes:duration>
+  </item>
+  <item>
+    <title>93. 十年後的瞳瞳</title>
+    <description>爸爸接到一個神袐電話，原來是十年後的瞳瞳打來的！</description>
+    <itunes:summary>爸爸接到一個神袐電話，原來是十年後的瞳瞳打來的！</itunes:summary>
+    <link>https://edmundip.github.io/iris/093.mp3</link>
+    <pubDate>Sun, 26 Mar 2017 09:51:04 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/093.mp3" length="10308545" type="audio/mp3"/>
+    <itunes:duration>00:21:29</itunes:duration>
+  </item>
+  <item>
+    <title>92. 爸爸病了</title>
+    <description>瞳瞳醫生為病人爸爸看病。</description>
+    <itunes:summary>瞳瞳醫生為病人爸爸看病。</itunes:summary>
+    <link>https://edmundip.github.io/iris/092.mp3</link>
+    <pubDate>Sun, 26 Mar 2017 07:07:32 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/092.mp3" length="6628978" type="audio/mp3"/>
+    <itunes:duration>00:13:49</itunes:duration>
+  </item>
+  <item>
+    <title>91. 幸福的餃子</title>
+    <description>瞳瞳將要在學校的才藝表演節目中講「小丟丟幸福的餃子」故事，這是她首次練習。</description>
+    <itunes:summary>瞳瞳將要在學校的才藝表演節目中講「小丟丟幸福的餃子」故事，這是她首次練習。</itunes:summary>
+    <link>https://edmundip.github.io/iris/091.mp3</link>
+    <pubDate>Mon, 20 Mar 2017 15:08:42 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/091.mp3" length="1521181" type="audio/mp3"/>
+    <itunes:duration>00:03:10</itunes:duration>
+  </item>
+  <item>
+    <title>90. 參觀國際金融中心</title>
+    <description>瞳瞳講述她和同學一起參觀國際金融中心。</description>
+    <itunes:summary>瞳瞳講述她和同學一起參觀國際金融中心。</itunes:summary>
+    <link>https://edmundip.github.io/iris/090.mp3</link>
+    <pubDate>Sat, 18 Mar 2017 15:14:12 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/090.mp3" length="9029833" type="audio/mp3"/>
+    <itunes:duration>00:18:49</itunes:duration>
+  </item>
+  <item>
+    <title>89. 捐血</title>
+    <description>爸爸和瞳瞳各自到捐血站捐血。</description>
+    <itunes:summary>爸爸和瞳瞳各自到捐血站捐血。</itunes:summary>
+    <link>https://edmundip.github.io/iris/089.mp3</link>
+    <pubDate>Fri, 17 Mar 2017 13:17:15 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/089.mp3" length="12250384" type="audio/mp3"/>
+    <itunes:duration>00:25:31</itunes:duration>
+  </item>
+  <item>
+    <title>88. 工作紙</title>
+    <description>「姐姐」的工作紙功課不見了，大家一起為她尋找吧！</description>
+    <itunes:summary>「姐姐」的工作紙功課不見了，大家一起為她尋找吧！</itunes:summary>
+    <link>https://edmundip.github.io/iris/088.mp3</link>
+    <pubDate>Thu, 16 Mar 2017 15:54:21 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/088.mp3" length="6347789" type="audio/mp3"/>
+    <itunes:duration>00:13:13</itunes:duration>
+  </item>
+  <item>
+    <title>87. 零用錢</title>
+    <description>瞳瞳如何運用她的零用錢？</description>
+    <itunes:summary>瞳瞳如何運用她的零用錢？</itunes:summary>
+    <link>https://edmundip.github.io/iris/087.mp3</link>
+    <pubDate>Wed, 15 Mar 2017 15:16:06 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/087.mp3" length="9756628" type="audio/mp3"/>
+    <itunes:duration>00:20:20</itunes:duration>
+  </item>
+  <item>
+    <title>86. 香港紅十字會</title>
+    <description>為何爸爸自願被針刺？</description>
+    <itunes:summary>為何爸爸自願被針刺？</itunes:summary>
+    <link>https://edmundip.github.io/iris/086.mp3</link>
+    <pubDate>Mon, 13 Mar 2017 14:09:27 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/086.mp3" length="13388905" type="audio/mp3"/>
+    <itunes:duration>00:27:54</itunes:duration>
+  </item>
+  <item>
+    <title>85. 飲茶</title>
+    <description>瞳瞳到爸爸酒樓飲茶。</description>
+    <itunes:summary>瞳瞳到爸爸酒樓飲茶。</itunes:summary>
+    <link>https://edmundip.github.io/iris/085.mp3</link>
+    <pubDate>Mon, 13 Mar 2017 11:26:25 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/085.mp3" length="2479113" type="audio/mp3"/>
+    <itunes:duration>00:05:10</itunes:duration>
+  </item>
+  <item>
+    <title>84. 小BB發炎</title>
+    <description>若果小BB發炎，我們應該怎樣處理？</description>
+    <itunes:summary>若果小BB發炎，我們應該怎樣處理？</itunes:summary>
+    <link>https://edmundip.github.io/iris/084.mp3</link>
+    <pubDate>Fri, 10 Mar 2017 15:25:06 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/084.mp3" length="11979766" type="audio/mp3"/>
+    <itunes:duration>00:24:57</itunes:duration>
+  </item>
+  <item>
+    <title>83. 發惡夢</title>
+    <description>瞳瞳在夜間突然用腳踼爸爸，原來她是在發惡夢！</description>
+    <itunes:summary>瞳瞳在夜間突然用腳踼爸爸，原來她是在發惡夢！</itunes:summary>
+    <link>https://edmundip.github.io/iris/083.mp3</link>
+    <pubDate>Fri, 10 Mar 2017 14:52:56 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/083.mp3" length="17344080" type="audio/mp3"/>
+    <itunes:duration>00:36:08</itunes:duration>
+  </item>
+  <item>
+    <title>82. 大姐姐大哥哥(三)</title>
+    <description>在學校當「大姐姐大哥哥」時，瞳瞳和同學們遇到各種突發事情，他們會怎樣處理呢？</description>
+    <itunes:summary>在學校當「大姐姐大哥哥」時，瞳瞳和同學們遇到各種突發事情，他們會怎樣處理呢？</itunes:summary>
+    <link>https://edmundip.github.io/iris/082.mp3</link>
+    <pubDate>Thu, 09 Mar 2017 14:40:51 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/082.mp3" length="16473141" type="audio/mp3"/>
+    <itunes:duration>00:34:19</itunes:duration>
+  </item>
+  <item>
+    <title>81. 地球生病了</title>
+    <description>地球為何會生病？</description>
+    <itunes:summary>地球為何會生病？</itunes:summary>
+    <link>https://edmundip.github.io/iris/081.mp3</link>
+    <pubDate>Mon, 06 Mar 2017 15:18:18 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/081.mp3" length="5457285" type="audio/mp3"/>
+    <itunes:duration>00:11:22</itunes:duration>
+  </item>
+  <item>
+    <title>80. 朗朗是大哥哥</title>
+    <description>瞳瞳老師教爸爸同學閱讀課本。</description>
+    <itunes:summary>瞳瞳老師教爸爸同學閱讀課本。</itunes:summary>
+    <link>https://edmundip.github.io/iris/080.mp3</link>
+    <pubDate>Mon, 06 Mar 2017 15:02:07 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/080.mp3" length="13804995" type="audio/mp3"/>
+    <itunes:duration>00:28:46</itunes:duration>
+  </item>
+  <item>
+    <title>79. 趕走病菌兵團</title>
+    <description>我們學習如何防止「病菌兵團」入侵。</description>
+    <itunes:summary>我們學習如何防止「病菌兵團」入侵。</itunes:summary>
+    <link>https://edmundip.github.io/iris/079.mp3</link>
+    <pubDate>Sat, 04 Mar 2017 16:48:19 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/079.mp3" length="9466797" type="audio/mp3"/>
+    <itunes:duration>00:19:43</itunes:duration>
+  </item>
+  <item>
+    <title>78. 面具人</title>
+    <description>警員瞳瞳和爸爸一同捕捉欺負小朋友的「面具人」。</description>
+    <itunes:summary>警員瞳瞳和爸爸一同捕捉欺負小朋友的「面具人」。</itunes:summary>
+    <link>https://edmundip.github.io/iris/078.mp3</link>
+    <pubDate>Sat, 04 Mar 2017 07:26:00 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/078.mp3" length="15634212" type="audio/mp3"/>
+    <itunes:duration>00:32:34</itunes:duration>
+  </item>
+  <item>
+    <title>77. 照顧妹妹</title>
+    <description>父母不在家，瞳瞳獨自在家照顧兩個妹妹。</description>
+    <itunes:summary>父母不在家，瞳瞳獨自在家照顧兩個妹妹。</itunes:summary>
+    <link>https://edmundip.github.io/iris/077.mp3</link>
+    <pubDate>Sat, 04 Mar 2017 06:32:49 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/077.mp3" length="9339320" type="audio/mp3"/>
+    <itunes:duration>00:19:27</itunes:duration>
+  </item>
+  <item>
+    <title>76. 生日快樂</title>
+    <description>瞳瞳做了兩個蛋糕，和幾個小朋友一起慶祝生日。</description>
+    <itunes:summary>瞳瞳做了兩個蛋糕，和幾個小朋友一起慶祝生日。</itunes:summary>
+    <link>https://edmundip.github.io/iris/076.mp3</link>
+    <pubDate>Thu, 02 Mar 2017 07:53:27 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/076.mp3" length="14164876" type="audio/mp3"/>
+    <itunes:duration>00:29:31</itunes:duration>
+  </item>
+  <item>
+    <title>75. 爸爸看醫生</title>
+    <description>患上大感冒的爸爸到診所看醫生。</description>
+    <itunes:summary>患上大感冒的爸爸到診所看醫生。</itunes:summary>
+    <link>https://edmundip.github.io/iris/075.mp3</link>
+    <pubDate>Thu, 02 Mar 2017 04:48:12 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/075.mp3" length="13601658" type="audio/mp3"/>
+    <itunes:duration>00:28:20</itunes:duration>
+  </item>
+  <item>
+    <title>74. 小丟丟生病</title>
+    <description>老鼠小丟丟患上大感冒。</description>
+    <itunes:summary>老鼠小丟丟患上大感冒。</itunes:summary>
+    <link>https://edmundip.github.io/iris/074.mp3</link>
+    <pubDate>Wed, 01 Mar 2017 11:59:17 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/074.mp3" length="5225117" type="audio/mp3"/>
+    <itunes:duration>00:10:53</itunes:duration>
+  </item>
+  <item>
+    <title>73. 失眠</title>
+    <description>爸爸和瞳瞳互相分享如何應對失眠。</description>
+    <itunes:summary>爸爸和瞳瞳互相分享如何應對失眠。</itunes:summary>
+    <link>https://edmundip.github.io/iris/073.mp3</link>
+    <pubDate>Sat, 25 Feb 2017 14:41:36 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/073.mp3" length="4502054" type="audio/mp3"/>
+    <itunes:duration>00:09:23</itunes:duration>
+  </item>
+  <item>
+    <title>72. 無國界醫生</title>
+    <description>瞳瞳在學校認識了醫療救援組織「無國界醫生」，回家和爸爸分享。</description>
+    <itunes:summary>瞳瞳在學校認識了醫療救援組織「無國界醫生」，回家和爸爸分享。</itunes:summary>
+    <link>https://edmundip.github.io/iris/072.mp3</link>
+    <pubDate>Tue, 14 Feb 2017 12:25:39 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/072.mp3" length="5453380" type="audio/mp3"/>
+    <itunes:duration>00:11:22</itunes:duration>
+  </item>
+  <item>
+    <title>71. 選小學</title>
+    <description>爸爸和瞳瞳討論報讀哪所小學。</description>
+    <itunes:summary>爸爸和瞳瞳討論報讀哪所小學。</itunes:summary>
+    <link>https://edmundip.github.io/iris/071.mp3</link>
+    <pubDate>Fri, 10 Feb 2017 15:41:47 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/071.mp3" length="7779687" type="audio/mp3"/>
+    <itunes:duration>00:16:12</itunes:duration>
+  </item>
+  <item>
+    <title>70. 太陽伯伯病了</title>
+    <description>我們如何渡過沒有太陽伯伯的一天？</description>
+    <itunes:summary>我們如何渡過沒有太陽伯伯的一天？</itunes:summary>
+    <link>https://edmundip.github.io/iris/070.mp3</link>
+    <pubDate>Thu, 09 Feb 2017 15:39:08 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/070.mp3" length="9558745" type="audio/mp3"/>
+    <itunes:duration>00:19:55</itunes:duration>
+  </item>
+  <item>
+    <title>69. 爸爸肚痛</title>
+    <description>原來大笑較肚痛還要辛苦！</description>
+    <itunes:summary>原來大笑較肚痛還要辛苦！</itunes:summary>
+    <link>https://edmundip.github.io/iris/069.mp3</link>
+    <pubDate>Wed, 08 Feb 2017 12:24:41 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/069.mp3" length="13791191" type="audio/mp3"/>
+    <itunes:duration>00:28:44</itunes:duration>
+  </item>
+  <item>
+    <title>68. 豆豆遇溺</title>
+    <description>豆豆游水時遇溺，救生員為她進行急救。</description>
+    <itunes:summary>豆豆游水時遇溺，救生員為她進行急救。</itunes:summary>
+    <link>https://edmundip.github.io/iris/068.mp3</link>
+    <pubDate>Mon, 06 Feb 2017 15:57:33 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/068.mp3" length="11631614" type="audio/mp3"/>
+    <itunes:duration>00:24:14</itunes:duration>
+  </item>
+  <item>
+    <title>67. 中文字的演化</title>
+    <description>中文字源遠流長，爸爸向瞳瞳解說其演化過程。</description>
+    <itunes:summary>中文字源遠流長，爸爸向瞳瞳解說其演化過程。</itunes:summary>
+    <link>https://edmundip.github.io/iris/067.mp3</link>
+    <pubDate>Sun, 05 Feb 2017 15:28:58 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/067.mp3" length="10773976" type="audio/mp3"/>
+    <itunes:duration>00:22:27</itunes:duration>
+  </item>
+  <item>
+    <title>66. 琴琴入院</title>
+    <description>琴琴因病入院，護士向她的哥哥解釋病情。</description>
+    <itunes:summary>琴琴因病入院，護士向她的哥哥解釋病情。</itunes:summary>
+    <link>https://edmundip.github.io/iris/066.mp3</link>
+    <pubDate>Sun, 05 Feb 2017 03:37:12 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/066.mp3" length="3250699" type="audio/mp3"/>
+    <itunes:duration>00:06:46</itunes:duration>
+  </item>
+  <item>
+    <title>65. 泳客遇溺</title>
+    <description>暢泳時有泳客遇溺，大家合力進行緊急拯救。</description>
+    <itunes:summary>暢泳時有泳客遇溺，大家合力進行緊急拯救。</itunes:summary>
+    <link>https://edmundip.github.io/iris/065.mp3</link>
+    <pubDate>Sat, 04 Feb 2017 16:27:41 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/065.mp3" length="15980485" type="audio/mp3"/>
+    <itunes:duration>00:33:18</itunes:duration>
+  </item>
+  <item>
+    <title>64. 爸爸腰痛</title>
+    <description>夜深了，為何爸爸仍是沒有睡意？</description>
+    <itunes:summary>夜深了，為何爸爸仍是沒有睡意？</itunes:summary>
+    <link>https://edmundip.github.io/iris/064.mp3</link>
+    <pubDate>Fri, 03 Feb 2017 16:02:24 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/064.mp3" length="8897316" type="audio/mp3"/>
+    <itunes:duration>00:18:32</itunes:duration>
+  </item>
+  <item>
+    <title>63. 兩個瞳瞳</title>
+    <description>瞳瞳認識了一個同樣叫瞳瞳的新朋友。</description>
+    <itunes:summary>瞳瞳認識了一個同樣叫瞳瞳的新朋友。</itunes:summary>
+    <link>https://edmundip.github.io/iris/063.mp3</link>
+    <pubDate>Wed, 01 Feb 2017 17:10:14 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/063.mp3" length="5900554" type="audio/mp3"/>
+    <itunes:duration>00:12:18</itunes:duration>
+  </item>
+  <item>
+    <title>62. 爸爸茶餐廳</title>
+    <description>爸爸向客人推介茶餐廳的招牌菜式。</description>
+    <itunes:summary>爸爸向客人推介茶餐廳的招牌菜式。</itunes:summary>
+    <link>https://edmundip.github.io/iris/062.mp3</link>
+    <pubDate>Wed, 01 Feb 2017 16:49:45 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/062.mp3" length="7622572" type="audio/mp3"/>
+    <itunes:duration>00:15:53</itunes:duration>
+  </item>
+  <item>
+    <title>61. 瞳瞳餐廳</title>
+    <description>爸爸在瞳瞳餐廳享受了一頓美味的晚餐。</description>
+    <itunes:summary>爸爸在瞳瞳餐廳享受了一頓美味的晚餐。</itunes:summary>
+    <link>https://edmundip.github.io/iris/061.mp3</link>
+    <pubDate>Tue, 31 Jan 2017 14:09:01 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/061.mp3" length="11769357" type="audio/mp3"/>
+    <itunes:duration>00:24:31</itunes:duration>
+  </item>
+  <item>
+    <title>60. 工具被偷</title>
+    <description>工具被偷，爸爸立刻報警求助。</description>
+    <itunes:summary>工具被偷，爸爸立刻報警求助。</itunes:summary>
+    <link>https://edmundip.github.io/iris/060.mp3</link>
+    <pubDate>Sun, 29 Jan 2017 12:13:54 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/060.mp3" length="2507370" type="audio/mp3"/>
+    <itunes:duration>00:05:13</itunes:duration>
+  </item>
+  <item>
+    <title>59. 鼻塞</title>
+    <description>我們為何會鼻塞？</description>
+    <itunes:summary>我們為何會鼻塞？</itunes:summary>
+    <link>https://edmundip.github.io/iris/059.mp3</link>
+    <pubDate>Sat, 28 Jan 2017 14:51:31 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/059.mp3" length="4257106" type="audio/mp3"/>
+    <itunes:duration>00:08:52</itunes:duration>
+  </item>
+  <item>
+    <title>58. 打嗝</title>
+    <description>如何防止打嗝？</description>
+    <itunes:summary>如何防止打嗝？</itunes:summary>
+    <link>https://edmundip.github.io/iris/058.mp3</link>
+    <pubDate>Sat, 28 Jan 2017 14:42:29 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/058.mp3" length="1145606" type="audio/mp3"/>
+    <itunes:duration>00:02:23</itunes:duration>
+  </item>
+  <item>
+    <title>57. 玩沙砲</title>
+    <description>爺爺教瞳瞳玩沙砲。</description>
+    <itunes:summary>爺爺教瞳瞳玩沙砲。</itunes:summary>
+    <link>https://edmundip.github.io/iris/057.mp3</link>
+    <pubDate>Sat, 28 Jan 2017 10:14:59 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/057.mp3" length="2440452" type="audio/mp3"/>
+    <itunes:duration>00:05:05</itunes:duration>
+  </item>
+  <item>
+    <title>56. iPhone壞了</title>
+    <description>爸爸的iPhone不知何故壞了。</description>
+    <itunes:summary>爸爸的iPhone不知何故壞了。</itunes:summary>
+    <link>https://edmundip.github.io/iris/056.mp3</link>
+    <pubDate>Sat, 28 Jan 2017 10:00:49 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/056.mp3" length="1763827" type="audio/mp3"/>
+    <itunes:duration>00:03:40</itunes:duration>
+  </item>
+  <item>
+    <title>55. 派紅包</title>
+    <description>大除夕夜派紅包時，爸爸和瞳瞳互說祝福語。</description>
+    <itunes:summary>大除夕夜派紅包時，爸爸和瞳瞳互說祝福語。</itunes:summary>
+    <link>https://edmundip.github.io/iris/055.mp3</link>
+    <pubDate>Fri, 27 Jan 2017 15:06:18 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/055.mp3" length="2344979" type="audio/mp3"/>
+    <itunes:duration>00:04:53</itunes:duration>
+  </item>
+  <item>
+    <title>54. 瞳瞳精品店</title>
+    <description>爸爸到精品店購物，受到售貨員的殷勤款待。</description>
+    <itunes:summary>爸爸到精品店購物，受到售貨員的殷勤款待。</itunes:summary>
+    <link>https://edmundip.github.io/iris/054.mp3</link>
+    <pubDate>Fri, 27 Jan 2017 09:42:21 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/054.mp3" length="23168965" type="audio/mp3"/>
+    <itunes:duration>00:48:16</itunes:duration>
+  </item>
+  <item>
+    <title>53. 八達通</title>
+    <description>瞳瞳問爸爸的八達通咭為何不用自已增值？</description>
+    <itunes:summary>瞳瞳問爸爸的八達通咭為何不用自已增值？</itunes:summary>
+    <link>https://edmundip.github.io/iris/053.mp3</link>
+    <pubDate>Wed, 25 Jan 2017 13:00:47 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/053.mp3" length="11913106" type="audio/mp3"/>
+    <itunes:duration>00:24:49</itunes:duration>
+  </item>
+  <item>
+    <title>52. 層層疊比賽(二)</title>
+    <description>層層疊第二場比賽：大人隊對小朋友隊</description>
+    <itunes:summary>層層疊第二場比賽：大人隊對小朋友隊</itunes:summary>
+    <link>https://edmundip.github.io/iris/052.mp3</link>
+    <pubDate>Tue, 24 Jan 2017 14:38:06 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/052.mp3" length="4132409" type="audio/mp3"/>
+    <itunes:duration>00:08:36</itunes:duration>
+  </item>
+  <item>
+    <title>51. 層層疊比賽(一)</title>
+    <description>層層疊第一場比賽：男子隊對女子隊</description>
+    <itunes:summary>層層疊第一場比賽：男子隊對女子隊</itunes:summary>
+    <link>https://edmundip.github.io/iris/051.mp3</link>
+    <pubDate>Tue, 24 Jan 2017 14:25:45 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/051.mp3" length="5001552" type="audio/mp3"/>
+    <itunes:duration>00:10:25</itunes:duration>
+  </item>
+  <item>
+    <title>50. 改花名</title>
+    <description>小孩子總愛為同學改花名。</description>
+    <itunes:summary>小孩子總愛為同學改花名。</itunes:summary>
+    <link>https://edmundip.github.io/iris/050.mp3</link>
+    <pubDate>Thu, 19 Jan 2017 15:33:43 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/050.mp3" length="9831021" type="audio/mp3"/>
+    <itunes:duration>00:20:29</itunes:duration>
+  </item>
+  <item>
+    <title>49. 打翻斗</title>
+    <description>瞳瞳老師教兩個「學生」打翻斗。</description>
+    <itunes:summary>瞳瞳老師教兩個「學生」打翻斗。</itunes:summary>
+    <link>https://edmundip.github.io/iris/049.mp3</link>
+    <pubDate>Thu, 19 Jan 2017 13:40:53 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/049.mp3" length="6713891" type="audio/mp3"/>
+    <itunes:duration>00:13:59</itunes:duration>
+  </item>
+  <item>
+    <title>48. 照顧寶寶</title>
+    <description>為照顧初生嬰兒和頑皮妹妹，瞳瞳和爸爸弄得手忙腳亂。</description>
+    <itunes:summary>為照顧初生嬰兒和頑皮妹妹，瞳瞳和爸爸弄得手忙腳亂。</itunes:summary>
+    <link>https://edmundip.github.io/iris/048.mp3</link>
+    <pubDate>Thu, 19 Jan 2017 13:01:47 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/048.mp3" length="17764974" type="audio/mp3"/>
+    <itunes:duration>00:37:01</itunes:duration>
+  </item>
+  <item>
+    <title>47. 學校考試</title>
+    <description>瞳瞳不滿自已的考試成績，爸爸提出數項改善建議。</description>
+    <itunes:summary>瞳瞳不滿自已的考試成績，爸爸提出數項改善建議。</itunes:summary>
+    <link>https://edmundip.github.io/iris/047.mp3</link>
+    <pubDate>Wed, 18 Jan 2017 15:38:33 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/047.mp3" length="9695639" type="audio/mp3"/>
+    <itunes:duration>00:20:12</itunes:duration>
+  </item>
+  <item>
+    <title>46. 和尚挑水</title>
+    <description>和尚做了什麼可以不用再下山挑水？</description>
+    <itunes:summary>和尚做了什麼可以不用再下山挑水？</itunes:summary>
+    <link>https://edmundip.github.io/iris/046.mp3</link>
+    <pubDate>Tue, 17 Jan 2017 13:38:24 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/046.mp3" length="3076189" type="audio/mp3"/>
+    <itunes:duration>00:06:24</itunes:duration>
+  </item>
+  <item>
+    <title>45. 蝴蝶結的功勞</title>
+    <description>神奇的蝴蝶結如何增強一個人的自信？</description>
+    <itunes:summary>神奇的蝴蝶結如何增強一個人的自信？</itunes:summary>
+    <link>https://edmundip.github.io/iris/045.mp3</link>
+    <pubDate>Tue, 17 Jan 2017 13:31:36 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/045.mp3" length="2291898" type="audio/mp3"/>
+    <itunes:duration>00:04:46</itunes:duration>
+  </item>
+  <item>
+    <title>44. 吃火鍋</title>
+    <description>我們邀請姨婆和丈公在家吃火鍋。</description>
+    <itunes:summary>我們邀請姨婆和丈公在家吃火鍋。</itunes:summary>
+    <link>https://edmundip.github.io/iris/044.mp3</link>
+    <pubDate>Sun, 15 Jan 2017 14:53:20 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/044.mp3" length="17965352" type="audio/mp3"/>
+    <itunes:duration>00:37:26</itunes:duration>
+  </item>
+  <item>
+    <title>43. 爸爸被打</title>
+    <description>爸爸為什麼被瞳瞳打？</description>
+    <itunes:summary>爸爸為什麼被瞳瞳打？</itunes:summary>
+    <link>https://edmundip.github.io/iris/043.mp3</link>
+    <pubDate>Sat, 14 Jan 2017 15:45:07 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/043.mp3" length="4495561" type="audio/mp3"/>
+    <itunes:duration>00:09:22</itunes:duration>
+  </item>
+  <item>
+    <title>42. 垃圾蟲</title>
+    <description>瞳瞳竟做垃圾蟲，將蛋糕紙丟掉落地。</description>
+    <itunes:summary>瞳瞳竟做垃圾蟲，將蛋糕紙丟掉落地。</itunes:summary>
+    <link>https://edmundip.github.io/iris/042.mp3</link>
+    <pubDate>Sat, 14 Jan 2017 15:27:54 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/042.mp3" length="4821169" type="audio/mp3"/>
+    <itunes:duration>00:10:03</itunes:duration>
+  </item>
+  <item>
+    <title>41. 十二生肖</title>
+    <description>在中國的十二生肖中，為何沒有常見的貓？</description>
+    <itunes:summary>在中國的十二生肖中，為何沒有常見的貓？</itunes:summary>
+    <link>https://edmundip.github.io/iris/041.mp3</link>
+    <pubDate>Sat, 14 Jan 2017 03:28:56 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/041.mp3" length="4227467" type="audio/mp3"/>
+    <itunes:duration>00:08:48</itunes:duration>
+  </item>
+  <item>
+    <title>40. 電話對談</title>
+    <description>「鈴鈴鈴、鈴鈴鈴．．．」</description>
+    <itunes:summary>「鈴鈴鈴、鈴鈴鈴．．．」</itunes:summary>
+    <link>https://edmundip.github.io/iris/040.mp3</link>
+    <pubDate>Sat, 14 Jan 2017 02:54:08 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/040.mp3" length="7178864" type="audio/mp3"/>
+    <itunes:duration>00:14:57</itunes:duration>
+  </item>
+  <item>
+    <title>39. 歌唱比賽</title>
+    <description>瞳瞳在歌唱比賽中大展歌喉。</description>
+    <itunes:summary>瞳瞳在歌唱比賽中大展歌喉。</itunes:summary>
+    <link>https://edmundip.github.io/iris/039.mp3</link>
+    <pubDate>Fri, 13 Jan 2017 15:11:54 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/039.mp3" length="4357852" type="audio/mp3"/>
+    <itunes:duration>00:09:05</itunes:duration>
+  </item>
+  <item>
+    <title>38. 為何二月只得廿八天？</title>
+    <description>為何二月只得廿八天？在古代，二月原來是有多一天的！</description>
+    <itunes:summary>為何二月只得廿八天？在古代，二月原來是有多一天的！</itunes:summary>
+    <link>https://edmundip.github.io/iris/038.mp3</link>
+    <pubDate>Wed, 11 Jan 2017 14:25:16 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/038.mp3" length="12653560" type="audio/mp3"/>
+    <itunes:duration>00:26:22</itunes:duration>
+  </item>
+  <item>
+    <title>37. 參觀海洋公園</title>
+    <description>瞳瞳到海洋公園參觀，看到海獅，熊貓，金魚和企鵝等動物。</description>
+    <itunes:summary>瞳瞳到海洋公園參觀，看到海獅，熊貓，金魚和企鵝等動物。</itunes:summary>
+    <link>https://edmundip.github.io/iris/037.mp3</link>
+    <pubDate>Tue, 10 Jan 2017 14:35:01 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/037.mp3" length="18972470" type="audio/mp3"/>
+    <itunes:duration>00:39:32</itunes:duration>
+  </item>
+  <item>
+    <title>36. 爸爸拉肚子</title>
+    <description>爸爸不聽瞳瞳觀告，喝了過期豆漿，不久便拉肚子。</description>
+    <itunes:summary>爸爸不聽瞳瞳觀告，喝了過期豆漿，不久便拉肚子。</itunes:summary>
+    <link>https://edmundip.github.io/iris/036.mp3</link>
+    <pubDate>Tue, 10 Jan 2017 14:23:22 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/036.mp3" length="3963332" type="audio/mp3"/>
+    <itunes:duration>00:08:15</itunes:duration>
+  </item>
+  <item>
+    <title>35. 海洋公園</title>
+    <description>瞳瞳將要到海洋公園參觀，她因懼怕見到「北極熊」而憂心冲冲。</description>
+    <itunes:summary>瞳瞳將要到海洋公園參觀，她因懼怕見到「北極熊」而憂心冲冲。</itunes:summary>
+    <link>https://edmundip.github.io/iris/035.mp3</link>
+    <pubDate>Sun, 08 Jan 2017 14:38:48 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/035.mp3" length="8266236" type="audio/mp3"/>
+    <itunes:duration>00:17:13</itunes:duration>
+  </item>
+  <item>
+    <title>34. 家居大清潔</title>
+    <description>家裡進行大清潔，各人分派不同的工作。</description>
+    <itunes:summary>家裡進行大清潔，各人分派不同的工作。</itunes:summary>
+    <link>https://edmundip.github.io/iris/034.mp3</link>
+    <pubDate>Sat, 07 Jan 2017 15:08:02 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/034.mp3" length="5885929" type="audio/mp3"/>
+    <itunes:duration>00:12:16</itunes:duration>
+  </item>
+  <item>
+    <title>33. 瞳瞳跌倒</title>
+    <description>瞳瞳不小心跌倒，頭部腫了一塊。</description>
+    <itunes:summary>瞳瞳不小心跌倒，頭部腫了一塊。</itunes:summary>
+    <link>https://edmundip.github.io/iris/033.mp3</link>
+    <pubDate>Sat, 07 Jan 2017 14:50:43 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/033.mp3" length="7088176" type="audio/mp3"/>
+    <itunes:duration>00:14:46</itunes:duration>
+  </item>
+  <item>
+    <title>32. 醫生做手術</title>
+    <description>瞳瞳醫生為受傷的「娃娃姐姐」做手術。</description>
+    <itunes:summary>瞳瞳醫生為受傷的「娃娃姐姐」做手術。</itunes:summary>
+    <link>https://edmundip.github.io/iris/032.mp3</link>
+    <pubDate>Sat, 07 Jan 2017 07:29:20 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/032.mp3" length="4671966" type="audio/mp3"/>
+    <itunes:duration>00:09:44</itunes:duration>
+  </item>
+  <item>
+    <title>31. 妹妹看醫生</title>
+    <description>瞳瞳姐姐帶兩個妹妹到診所看醫生，回家後照顧她們吃藥和休息。</description>
+    <itunes:summary>瞳瞳姐姐帶兩個妹妹到診所看醫生，回家後照顧她們吃藥和休息。</itunes:summary>
+    <link>https://edmundip.github.io/iris/031.mp3</link>
+    <pubDate>Sat, 07 Jan 2017 06:54:20 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/031.mp3" length="14598948" type="audio/mp3"/>
+    <itunes:duration>00:30:25</itunes:duration>
+  </item>
+  <item>
+    <title>30. 南極和北極</title>
+    <description>瞳瞳問了不少有關南極和北極的問題，爸爸因知識有限，未能完全解答。</description>
+    <itunes:summary>瞳瞳問了不少有關南極和北極的問題，爸爸因知識有限，未能完全解答。</itunes:summary>
+    <link>https://edmundip.github.io/iris/030.mp3</link>
+    <pubDate>Sat, 07 Jan 2017 03:03:50 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/030.mp3" length="3809132" type="audio/mp3"/>
+    <itunes:duration>00:07:56</itunes:duration>
+  </item>
+  <item>
+    <title>29. 為何在冬天仍穿短衣？</title>
+    <description>縱使仍是冬天，我們為何仍只是穿著短衣睡覺？全球曖化，我們自身可以做什麼？</description>
+    <itunes:summary>縱使仍是冬天，我們為何仍只是穿著短衣睡覺？全球曖化，我們自身可以做什麼？</itunes:summary>
+    <link>https://edmundip.github.io/iris/029.mp3</link>
+    <pubDate>Fri, 06 Jan 2017 16:39:00 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/029.mp3" length="14546321" type="audio/mp3"/>
+    <itunes:duration>00:30:18</itunes:duration>
+  </item>
+  <item>
+    <title>28. 大姨婆腳痛</title>
+    <description>我們訪問媽媽，了解大姨婆腳痛的情況。</description>
+    <itunes:summary>我們訪問媽媽，了解大姨婆腳痛的情況。</itunes:summary>
+    <link>https://edmundip.github.io/iris/028.mp3</link>
+    <pubDate>Wed, 04 Jan 2017 15:06:27 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/028.mp3" length="1520345" type="audio/mp3"/>
+    <itunes:duration>00:03:10</itunes:duration>
+  </item>
+  <item>
+    <title>27. 2016回顧</title>
+    <description>回顧2016年發生在瞳瞳身邊的大事。</description>
+    <itunes:summary>回顧2016年發生在瞳瞳身邊的大事。</itunes:summary>
+    <link>https://edmundip.github.io/iris/027.mp3</link>
+    <pubDate>Wed, 04 Jan 2017 14:07:52 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/027.mp3" length="14806001" type="audio/mp3"/>
+    <itunes:duration>00:30:51</itunes:duration>
+  </item>
+  <item>
+    <title>26. 妹妹搶毛巾</title>
+    <description>妹妹搶了別人的毛巾，我們可以怎樣處理？</description>
+    <itunes:summary>妹妹搶了別人的毛巾，我們可以怎樣處理？</itunes:summary>
+    <link>https://edmundip.github.io/iris/026.mp3</link>
+    <pubDate>Wed, 04 Jan 2017 13:33:40 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/026.mp3" length="12201922" type="audio/mp3"/>
+    <itunes:duration>00:25:25</itunes:duration>
+  </item>
+  <item>
+    <title>25. 踏單車比賽</title>
+    <description>瞳瞳和媽媽比賽踏單車。</description>
+    <itunes:summary>瞳瞳和媽媽比賽踏單車。</itunes:summary>
+    <link>https://edmundip.github.io/iris/025.mp3</link>
+    <pubDate>Wed, 28 Dec 2016 16:58:22 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/025.mp3" length="4955531" type="audio/mp3"/>
+    <itunes:duration>00:10:19</itunes:duration>
+  </item>
+  <item>
+    <title>24. 單車歷險記</title>
+    <description>瞳瞳和爸爸為踏單車作各種準備。</description>
+    <itunes:summary>瞳瞳和爸爸為踏單車作各種準備。</itunes:summary>
+    <link>https://edmundip.github.io/iris/024.mp3</link>
+    <pubDate>Tue, 27 Dec 2016 16:12:44 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/024.mp3" length="4320036" type="audio/mp3"/>
+    <itunes:duration>00:09:00</itunes:duration>
+  </item>
+  <item>
+    <title>23. 爺爺肚痛</title>
+    <description>爸爸和媽媽外出踏單車，爺爺在家肚子痛。</description>
+    <itunes:summary>爸爸和媽媽外出踏單車，爺爺在家肚子痛。</itunes:summary>
+    <link>https://edmundip.github.io/iris/023.mp3</link>
+    <pubDate>Tue, 27 Dec 2016 16:05:55 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/023.mp3" length="3219140" type="audio/mp3"/>
+    <itunes:duration>00:06:42</itunes:duration>
+  </item>
+  <item>
+    <title>22. 摩士公園嘉年華會</title>
+    <description>瞳瞳和朋友到摩士公園參加嘉年華會。</description>
+    <itunes:summary>瞳瞳和朋友到摩士公園參加嘉年華會。</itunes:summary>
+    <link>https://edmundip.github.io/iris/022.mp3</link>
+    <pubDate>Sun, 25 Dec 2016 15:32:58 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/022.mp3" length="15674121" type="audio/mp3"/>
+    <itunes:duration>00:32:39</itunes:duration>
+  </item>
+  <item>
+    <title>21. 角色互換</title>
+    <description>爸爸和瞳瞳互換身份，經歷了非凡的一天。</description>
+    <itunes:summary>爸爸和瞳瞳互換身份，經歷了非凡的一天。</itunes:summary>
+    <link>https://edmundip.github.io/iris/021.mp3</link>
+    <pubDate>Sat, 24 Dec 2016 16:52:15 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/021.mp3" length="15947042" type="audio/mp3"/>
+    <itunes:duration>00:33:13</itunes:duration>
+  </item>
+  <item>
+    <title>20. 宇軒百日宴</title>
+    <description>宇軒出生了一百天，我們參予他的百日宴。</description>
+    <itunes:summary>宇軒出生了一百天，我們參予他的百日宴。</itunes:summary>
+    <link>https://edmundip.github.io/iris/020.mp3</link>
+    <pubDate>Fri, 23 Dec 2016 15:44:02 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/020.mp3" length="12441204" type="audio/mp3"/>
+    <itunes:duration>00:25:55</itunes:duration>
+  </item>
+  <item>
+    <title>19. 聖誕老人</title>
+    <description>世上可有真的聖誕老人？聖誕老人的工作是什麼？誰是聖誕老人？</description>
+    <itunes:summary>世上可有真的聖誕老人？聖誕老人的工作是什麼？誰是聖誕老人？</itunes:summary>
+    <link>https://edmundip.github.io/iris/019.mp3</link>
+    <pubDate>Wed, 21 Dec 2016 16:22:16 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/019.mp3" length="21497988" type="audio/mp3"/>
+    <itunes:duration>00:44:47</itunes:duration>
+  </item>
+  <item>
+    <title>18. 到醫院探望太姑丈公</title>
+    <description>瞳瞳跟隨媽媽到醫院，卻因懼怕不敢進入病院探望太姑丈公。</description>
+    <itunes:summary>瞳瞳跟隨媽媽到醫院，卻因懼怕不敢進入病院探望太姑丈公。</itunes:summary>
+    <link>https://edmundip.github.io/iris/018.mp3</link>
+    <pubDate>Tue, 20 Dec 2016 15:55:57 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/018.mp3" length="11065109" type="audio/mp3"/>
+    <itunes:duration>00:23:03</itunes:duration>
+  </item>
+  <item>
+    <title>17. 電話外殼破裂</title>
+    <description>爸爸的舊iPhone為何破裂？</description>
+    <itunes:summary>爸爸的舊iPhone為何破裂？</itunes:summary>
+    <link>https://edmundip.github.io/iris/017.mp3</link>
+    <pubDate>Fri, 16 Dec 2016 17:10:42 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/017.mp3" length="5561574" type="audio/mp3"/>
+    <itunes:duration>00:11:35</itunes:duration>
+  </item>
+  <item>
+    <title>16. 報佳音</title>
+    <description>瞳瞳參予學校的報佳音活動。</description>
+    <itunes:summary>瞳瞳參予學校的報佳音活動。</itunes:summary>
+    <link>https://edmundip.github.io/iris/016.mp3</link>
+    <pubDate>Fri, 16 Dec 2016 16:04:09 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/016.mp3" length="16092288" type="audio/mp3"/>
+    <itunes:duration>00:16:46</itunes:duration>
+  </item>
+  <item>
+    <title>15. 靜文作嘔</title>
+    <description>瞳瞳的同學在校作嘔。</description>
+    <itunes:summary>瞳瞳的同學在校作嘔。</itunes:summary>
+    <link>https://edmundip.github.io/iris/015.mp3</link>
+    <pubDate>Wed, 14 Dec 2016 16:54:47 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/015.mp3" length="3445438" type="audio/mp3"/>
+    <itunes:duration>00:07:11</itunes:duration>
+  </item>
+  <item>
+    <title>14. 太姑丈公不能吃東西</title>
+    <description>瞳瞳轉述太姑丈公不能吃東西，聆聽太姑母離世的經過。</description>
+    <itunes:summary>瞳瞳轉述太姑丈公不能吃東西，聆聽太姑母離世的經過。</itunes:summary>
+    <link>https://edmundip.github.io/iris/014.mp3</link>
+    <pubDate>Wed, 14 Dec 2016 16:20:19 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/014.mp3" length="14370742" type="audio/mp3"/>
+    <itunes:duration>00:29:56</itunes:duration>
+  </item>
+  <item>
+    <title>13. 澄澄跌倒</title>
+    <description>瞳瞳的同學跌倒。</description>
+    <itunes:summary>瞳瞳的同學跌倒。</itunes:summary>
+    <link>https://edmundip.github.io/iris/013.mp3</link>
+    <pubDate>Tue, 13 Dec 2016 15:46:47 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/013.mp3" length="1286255" type="audio/mp3"/>
+    <itunes:duration>00:02:41</itunes:duration>
+  </item>
+  <item>
+    <title>12. 媽媽生日</title>
+    <description>媽媽的生日將至，我們怎樣和她慶祝？</description>
+    <itunes:summary>媽媽的生日將至，我們怎樣和她慶祝？</itunes:summary>
+    <link>https://edmundip.github.io/iris/012.mp3</link>
+    <pubDate>Tue, 13 Dec 2016 15:14:29 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/012.mp3" length="8423144" type="audio/mp3"/>
+    <itunes:duration>00:17:33</itunes:duration>
+  </item>
+  <item>
+    <title>11. 一班同學到澄澄家</title>
+    <description>放學後，一班感情要好的同學到了其中一個同學家玩。</description>
+    <itunes:summary>放學後，一班感情要好的同學到了其中一個同學家玩。</itunes:summary>
+    <link>https://edmundip.github.io/iris/011.mp3</link>
+    <pubDate>Tue, 13 Dec 2016 13:16:44 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/011.mp3" length="1549420" type="audio/mp3"/>
+    <itunes:duration>00:03:14</itunes:duration>
+  </item>
+  <item>
+    <title>10. 姐姐受傷了</title>
+    <description>娃娃姐姐因交通意外發傷，醫生爸爸和護士瞳瞳為她治療。</description>
+    <itunes:summary>娃娃姐姐因交通意外發傷，醫生爸爸和護士瞳瞳為她治療。</itunes:summary>
+    <link>https://edmundip.github.io/iris/010.mp3</link>
+    <pubDate>Mon, 12 Dec 2016 12:47:49 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/010.mp3" length="6345081" type="audio/mp3"/>
+    <itunes:duration>00:13:13</itunes:duration>
+  </item>
+  <item>
+    <title>9. 大賊姐姐</title>
+    <description>娃娃姐姐偷了家裡的七巧板，兩位神探如何偵破此案？他們怎樣「懲罰」姐姐？</description>
+    <itunes:summary>娃娃姐姐偷了家裡的七巧板，兩位神探如何偵破此案？他們怎樣「懲罰」姐姐？</itunes:summary>
+    <link>https://edmundip.github.io/iris/009.mp3</link>
+    <pubDate>Sun, 11 Dec 2016 13:39:58 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/009.mp3" length="5181506" type="audio/mp3"/>
+    <itunes:duration>00:10:48</itunes:duration>
+  </item>
+  <item>
+    <title>8. 小白兔</title>
+    <description>瞳瞳用國語朗讀一首童謠。</description>
+    <itunes:summary>瞳瞳用國語朗讀一首童謠。</itunes:summary>
+    <link>https://edmundip.github.io/iris/008.mp3</link>
+    <pubDate>Sun, 11 Dec 2016 11:26:30 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/008.mp3" length="143772" type="audio/mp3"/>
+    <itunes:duration>00:00:18</itunes:duration>
+  </item>
+  <item>
+    <title>7. 紅蘋果</title>
+    <description>我們家今天多了一個「紅蘋果」！</description>
+    <itunes:summary>我們家今天多了一個「紅蘋果」！</itunes:summary>
+    <link>https://edmundip.github.io/iris/007.mp3</link>
+    <pubDate>Sun, 11 Dec 2016 03:22:14 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/007.mp3" length="604998" type="audio/mp3"/>
+    <itunes:duration>00:01:16</itunes:duration>
+  </item>
+  <item>
+    <title>6. 大姐姐大哥哥(二)</title>
+    <description>瞳瞳講述她在學校做「大姐姐大哥哥」的經歷。</description>
+    <itunes:summary>瞳瞳講述她在學校做「大姐姐大哥哥」的經歷。</itunes:summary>
+    <link>https://edmundip.github.io/iris/006.mp3</link>
+    <pubDate>Fri, 09 Dec 2016 15:36:21 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/006.mp3" length="1165932" type="audio/mp3"/>
+    <itunes:duration>00:02:26</itunes:duration>
+  </item>
+  <item>
+    <title>5. 宇軒肚痛</title>
+    <description>宇軒肚子痛，要吃藥藥了。</description>
+    <itunes:summary>宇軒肚子痛，要吃藥藥了。</itunes:summary>
+    <link>https://edmundip.github.io/iris/005.mp3</link>
+    <pubDate>Fri, 09 Dec 2016 15:31:47 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/005.mp3" length="2019157" type="audio/mp3"/>
+    <itunes:duration>00:04:12</itunes:duration>
+  </item>
+  <item>
+    <title>4. 宇軒發燒</title>
+    <description>剛剛出世的宇軒發高燒，怎樣辦？</description>
+    <itunes:summary>剛剛出世的宇軒發高燒，怎樣辦？</itunes:summary>
+    <link>https://edmundip.github.io/iris/004.mp3</link>
+    <pubDate>Fri, 09 Dec 2016 15:17:55 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/004.mp3" length="5348838" type="audio/mp3"/>
+    <itunes:duration>00:11:09</itunes:duration>
+  </item>
+  <item>
+    <title>3. 穎欣妹妹</title>
+    <description>穎欣的妹妹出世了。</description>
+    <itunes:summary>穎欣的妹妹出世了。</itunes:summary>
+    <link>https://edmundip.github.io/iris/003.mp3</link>
+    <pubDate>Fri, 09 Dec 2016 14:50:48 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/003.mp3" length="10997957" type="audio/mp3"/>
+    <itunes:duration>00:22:55</itunes:duration>
+  </item>
+  <item>
+    <title>2. 瞳瞳眼中的媽媽</title>
+    <description>在瞳瞳眼中，媽媽是一個怎樣的人？</description>
+    <itunes:summary>在瞳瞳眼中，媽媽是一個怎樣的人？</itunes:summary>
+    <link>https://edmundip.github.io/iris/002.mp3</link>
+    <pubDate>Fri, 09 Dec 2016 13:14:50 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/002.mp3" length="1762133" type="audio/mp3"/>
+    <itunes:duration>00:03:40</itunes:duration>
+  </item>
+  <item>
+    <title>1. 大姐姐大哥哥</title>
+    <description>瞳瞳獨自講述她在學校做大姐姐的故事。</description>
+    <itunes:summary>瞳瞳獨自講述她在學校做大姐姐的故事。</itunes:summary>
+    <link>https://edmundip.github.io/iris/001.mp3</link>
+    <pubDate>Fri, 09 Dec 2016 12:32:15 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/001.mp3" length="1604566" type="audio/mp3"/>
+    <itunes:duration>00:03:21</itunes:duration>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,188 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="瞳話故事">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,
+                               maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+
+<link rel="shortcut icon" href="iris-120x120.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="iris-120x120.png">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<title>瞳話故事</title>
+
+<script src="episodes.js"></script>
+<style>
+* {
+  font-family: "arial";
+}
+.podcast-header {
+  overflow: auto;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 10px;
+}
+.podcast-header:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.podcast-thumb {
+  float: left;
+}
+.podcast-thumb img {
+  margin: 0px 10px;
+  padding: 0px;
+  border: 1px solid black;
+  border-radius: 20%;
+  display: block;
+}
+.podcast-info {
+  overflow: hidden;
+}
+.podcast-title {
+  margin: 0px;
+  padding: 0px;
+  font-weight: bold;
+  font-size: 200%;
+}
+.podcast-description {
+  padding: 10px 0px;
+}
+.podcast-player {
+  margin: 10px 0px;
+  width: 100%;
+}
+.podcast-episode {
+  padding: 10px;
+  line-height: 18px;
+  border-bottom: 1px solid #dddddd;
+}
+.podcast-episode:hover {
+  cursor: pointer;
+}
+.podcast-episode:active {
+  color: red;
+  background-color: #dddddd;
+}
+.podcast-episode-selected {
+  color: red;
+  background-color: #eeeeee;
+}
+.podcast-episode .duration {
+  float: right;
+}
+</style>
+</head>
+
+<body>
+<div class="podcast-header">
+  <div class="podcast-thumb">
+    <img src="iris-120x120.png" alt="瞳話故事" width="120" height="120">
+  </div>
+
+  <div class="podcast-info">
+    <div class="podcast-title">瞳話故事</div>
+    <div class="podcast-description">一個天真無邪的小女孩，一個童心未泯的爸爸，兩人在床上合力創作睡前小故事。</div>
+  </div>
+</div>
+
+<audio id="player" class="podcast-player" controls></audio>
+<div id="playlist" class="podcast-eposide-list"></div>
+
+<script>
+function selectEpisode(id) {
+  document.getElementById("episode-" + id).classList.add("podcast-episode-selected");
+  if (playing) {
+    document.getElementById("playButton-" + id).classList.remove("fa-play-circle");
+    document.getElementById("playButton-" + id).classList.add("fa-pause-circle");
+  } else {
+    document.getElementById("playButton-" + id).classList.remove("fa-pause-circle");
+    document.getElementById("playButton-" + id).classList.add("fa-play-circle");
+  }
+}
+
+function unselectEpisode(id) {
+  document.getElementById("episode-" + id).classList.remove("podcast-episode-selected");
+  document.getElementById("playButton-" + id).classList.remove("fa-pause-circle");
+  document.getElementById("playButton-" + id).classList.add("fa-play-circle");
+}
+
+function playEpisode(id) {
+  var player = document.getElementById("player");
+
+  if (selectedEpisode === id) {
+    if (playing) {
+      player.pause();
+      playing = false;
+    } else {
+      player.play();
+      playing = true;
+    }
+    selectEpisode(id);
+  } else {
+    player.src = episodes[id].url;
+    player.play();
+    playing = true;
+    unselectEpisode(selectedEpisode);
+    selectEpisode(id);
+    selectedEpisode = id;
+  }
+}
+
+function getDuration(duration) {
+   var d = duration.split(":");
+   var hours   = parseInt(d[0]);
+   var minutes = parseInt(d[1]);
+   var seconds = parseInt(d[2]);
+   var hoursRounded   = hours;
+   var minutesRounded = minutes + (seconds > 30);
+
+   if (minutesRounded === 60) {
+     hoursRounded = hoursRounded + 1;
+     minutesRounded = 0;
+   }
+
+   return (hours > 0 || minutes > 0) ?
+            (hoursRounded > 0 ? hoursRounded + " hr " : "") + minutesRounded + " min" :
+            seconds + " sec";
+}
+
+var selectedEpisode = 0;
+var playing = false;
+
+var html = "";
+for (var i = 0; i < episodes.length; i++) {
+    html += "<div id='episode-" + i + "' class='podcast-episode' onclick='playEpisode(" + i + ")'>" +
+            "<i id='playButton-" + i + "' class='fa fa-play-circle'></i> " +
+            "<span class='title'>" + episodes[i].title + "</span>" +
+            "<span class='duration'>" + getDuration(episodes[i].duration) + "</span>" +
+            "</div>";
+}
+document.getElementById("playlist").innerHTML = html;
+selectEpisode(selectedEpisode);
+
+var player = document.getElementById("player");
+player.src = episodes[selectedEpisode].url;
+player.addEventListener("play", function() {
+  playing = true;
+  selectEpisode(selectedEpisode);
+}, false);
+player.addEventListener("pause", function() {
+  playing = false;
+  selectEpisode(selectedEpisode);
+}, false);
+player.addEventListener("ended", function() {
+  if (selectedEpisode < episodes.length - 1) {
+    playEpisode(selectedEpisode + 1);
+  } else {
+    playing = false;
+  }
+}, false);
+</script>
+</body>
+</html>
