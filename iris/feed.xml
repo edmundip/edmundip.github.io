@@ -15,8 +15,53 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Mon, 27 Mar 2017 21:23:44 GMT</lastBuildDate>
-  <pubDate>Mon, 27 Mar 2017 21:23:44 GMT</pubDate>
+  <lastBuildDate>Fri, 07 Apr 2017 20:34:24 GMT</lastBuildDate>
+  <pubDate>Fri, 07 Apr 2017 20:34:24 GMT</pubDate>
+  <item>
+    <title>100. 百集回顧</title>
+    <description>講述創作「瞳話故事」的緣起、錄製過程和回顧過去九十九集的故事內容。</description>
+    <itunes:summary>講述創作「瞳話故事」的緣起、錄製過程和回顧過去九十九集的故事內容。</itunes:summary>
+    <link>https://edmundip.github.io/iris/100.mp3</link>
+    <pubDate>Wed, 05 Apr 2017 13:57:52 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/100.mp3" length="27107643" type="audio/mp3"/>
+    <itunes:duration>00:56:28</itunes:duration>
+  </item>
+  <item>
+    <title>99. 家居機械人</title>
+    <description>瞳瞳博士製造了一個機械人，可以協助人類做家務。</description>
+    <itunes:summary>瞳瞳博士製造了一個機械人，可以協助人類做家務。</itunes:summary>
+    <link>https://edmundip.github.io/iris/099.mp3</link>
+    <pubDate>Sun, 02 Apr 2017 10:16:00 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/099.mp3" length="15965033" type="audio/mp3"/>
+    <itunes:duration>00:33:16</itunes:duration>
+  </item>
+  <item>
+    <title>98. 鬼怪存在嗎</title>
+    <description>世上可有鬼？小丟丟遇到了，整晚在驚恐中渡過。</description>
+    <itunes:summary>世上可有鬼？小丟丟遇到了，整晚在驚恐中渡過。</itunes:summary>
+    <link>https://edmundip.github.io/iris/098.mp3</link>
+    <pubDate>Thu, 30 Mar 2017 15:11:07 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/098.mp3" length="7202725" type="audio/mp3"/>
+    <itunes:duration>00:15:00</itunes:duration>
+  </item>
+  <item>
+    <title>97. 新iPad出世</title>
+    <description>我們現場直播新iPad的開箱過程。</description>
+    <itunes:summary>我們現場直播新iPad的開箱過程。</itunes:summary>
+    <link>https://edmundip.github.io/iris/097.mp3</link>
+    <pubDate>Thu, 30 Mar 2017 12:21:35 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/097.mp3" length="5128160" type="audio/mp3"/>
+    <itunes:duration>00:10:41</itunes:duration>
+  </item>
+  <item>
+    <title>96. 買襪子</title>
+    <description>爸爸到服裝店買襪子，因不滿其服務而作出種種投訴，店員瞳瞳會如何應對？</description>
+    <itunes:summary>爸爸到服裝店買襪子，因不滿其服務而作出種種投訴，店員瞳瞳會如何應對？</itunes:summary>
+    <link>https://edmundip.github.io/iris/096.mp3</link>
+    <pubDate>Wed, 29 Mar 2017 12:59:52 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/096.mp3" length="7554886" type="audio/mp3"/>
+    <itunes:duration>00:15:44</itunes:duration>
+  </item>
   <item>
     <title>95. 鏡子世界</title>
     <description>我們到科學館的鏡子世界參觀。</description>
