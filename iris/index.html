@@ -104,6 +104,38 @@ function selectEpisode(id) {
     document.getElementById("playButton-" + id).classList.remove("fa-pause-circle");
     document.getElementById("playButton-" + id).classList.add("fa-play-circle");
   }
+  if ('mediaSession' in navigator) {
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: episodes[id].title,
+      artist: '瞳話爸爸',
+      album: '瞳話故事',
+      artwork: [ {src: 'https://podcasts-edmundip.cs50.io/iris-120x120.png'} ]
+    });
+
+    navigator.mediaSession.setActionHandler('previoustrack', function() {
+      // User clicked "Previous Track" media notification icon.
+      if (selectedEpisode > 0) {
+        playEpisode(selectedEpisode - 1);
+      }
+    });
+
+    navigator.mediaSession.setActionHandler('nexttrack', function() {
+      // User clicked "Next Track" media notification icon.
+      if (selectedEpisode < episodes.length - 1) {
+        playEpisode(selectedEpisode + 1);
+      }
+    });
+
+    navigator.mediaSession.setActionHandler('seekbackward', function() {
+      // User clicked "Seek Backward" media notification icon.
+      player.currentTime = Math.max(player.currentTime - 10, 0);
+    });
+
+    navigator.mediaSession.setActionHandler('seekforward', function() {
+      // User clicked "Seek Forward" media notification icon.
+      player.currentTime = Math.min(player.currentTime + 10, player.duration);
+    });
+  }
 }
 
 function unselectEpisode(id) {
