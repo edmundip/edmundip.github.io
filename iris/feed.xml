@@ -15,8 +15,35 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Fri, 07 Apr 2017 20:34:24 GMT</lastBuildDate>
-  <pubDate>Fri, 07 Apr 2017 20:34:24 GMT</pubDate>
+  <lastBuildDate>Wed, 12 Apr 2017 20:12:27 GMT</lastBuildDate>
+  <pubDate>Wed, 12 Apr 2017 20:12:27 GMT</pubDate>
+  <item>
+    <title>103. 蔬菜沙拉</title>
+    <description>小丟丟近日去不了便便，好朋友瞳瞳準備了一盒蔬菜沙拉給他吃。</description>
+    <itunes:summary>小丟丟近日去不了便便，好朋友瞳瞳準備了一盒蔬菜沙拉給他吃。</itunes:summary>
+    <link>https://edmundip.github.io/iris/103.mp3</link>
+    <pubDate>Tue, 11 Apr 2017 12:54:28 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/103.mp3" length="7872105" type="audio/mp3"/>
+    <itunes:duration>00:16:24</itunes:duration>
+  </item>
+  <item>
+    <title>102. 拯救彥臻</title>
+    <description>彥臻跌了下水，大家快快想辦法去拯救他。</description>
+    <itunes:summary>彥臻跌了下水，大家快快想辦法去拯救他。</itunes:summary>
+    <link>https://edmundip.github.io/iris/102.mp3</link>
+    <pubDate>Sun, 09 Apr 2017 15:04:37 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/102.mp3" length="7060816" type="audio/mp3"/>
+    <itunes:duration>00:14:43</itunes:duration>
+  </item>
+  <item>
+    <title>101. 濕地公園</title>
+    <description>我們和翠怡一家到濕地公園玩了一天。</description>
+    <itunes:summary>我們和翠怡一家到濕地公園玩了一天。</itunes:summary>
+    <link>https://edmundip.github.io/iris/101.mp3</link>
+    <pubDate>Sun, 09 Apr 2017 14:43:19 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/101.mp3" length="22898955" type="audio/mp3"/>
+    <itunes:duration>00:47:42</itunes:duration>
+  </item>
   <item>
     <title>100. 百集回顧</title>
     <description>講述創作「瞳話故事」的緣起、錄製過程和回顧過去九十九集的故事內容。</description>
