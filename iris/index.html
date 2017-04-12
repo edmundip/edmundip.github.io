@@ -76,6 +76,9 @@
 .podcast-episode .duration {
   float: right;
 }
+.podcast-episode-info {
+  margin-top: 10px;
+}
 </style>
 </head>
 
@@ -91,11 +94,14 @@
   </div>
 </div>
 
+<div id="info" class="podcast-episode-info"></div>
 <audio id="player" class="podcast-player" controls></audio>
-<div id="playlist" class="podcast-eposide-list"></div>
+<div id="playlist" class="podcast-episode-list"></div>
 
 <script>
 function selectEpisode(id) {
+  document.getElementById("info").innerHTML = "[" + episodes[id].title + "] " + episodes[id].description;
+
   document.getElementById("episode-" + id).classList.add("podcast-episode-selected");
   if (playing) {
     document.getElementById("playButton-" + id).classList.remove("fa-play-circle");
@@ -104,35 +110,32 @@ function selectEpisode(id) {
     document.getElementById("playButton-" + id).classList.remove("fa-pause-circle");
     document.getElementById("playButton-" + id).classList.add("fa-play-circle");
   }
+
   if ('mediaSession' in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
       title: episodes[id].title,
-      artist: '瞳話爸爸',
+      artist: '瞳瞳爸爸',
       album: '瞳話故事',
       artwork: [ {src: 'iris-120x120.png'} ]
     });
-
+    // User clicked "Previous Track" media notification icon.
     navigator.mediaSession.setActionHandler('previoustrack', function() {
-      // User clicked "Previous Track" media notification icon.
       if (selectedEpisode > 0) {
         playEpisode(selectedEpisode - 1);
       }
     });
-
+    // User clicked "Next Track" media notification icon.
     navigator.mediaSession.setActionHandler('nexttrack', function() {
-      // User clicked "Next Track" media notification icon.
       if (selectedEpisode < episodes.length - 1) {
         playEpisode(selectedEpisode + 1);
       }
     });
-
+    // User clicked "Seek Backward" media notification icon.
     navigator.mediaSession.setActionHandler('seekbackward', function() {
-      // User clicked "Seek Backward" media notification icon.
       player.currentTime = Math.max(player.currentTime - 10, 0);
     });
-
+    // User clicked "Seek Forward" media notification icon.
     navigator.mediaSession.setActionHandler('seekforward', function() {
-      // User clicked "Seek Forward" media notification icon.
       player.currentTime = Math.min(player.currentTime + 10, player.duration);
     });
   }
