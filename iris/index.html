@@ -100,7 +100,8 @@
 
 <script>
 function selectEpisode(id) {
-  document.getElementById("info").innerHTML = "[" + episodes[id].title + "] " + episodes[id].description;
+  document.getElementById("info").innerHTML =
+    "[" + episodes[id].trackNo + ". " + episodes[id].title + "] " + episodes[id].description;
 
   document.getElementById("episode-" + id).classList.add("podcast-episode-selected");
   if (playing) {
@@ -113,7 +114,7 @@ function selectEpisode(id) {
 
   if ('mediaSession' in navigator) {
     navigator.mediaSession.metadata = new MediaMetadata({
-      title: episodes[id].title,
+      title: episodes[id].trackNo + ". " + episodes[id].title,
       artist: '瞳瞳爸爸',
       album: '瞳話故事',
       artwork: [ {src: 'iris-120x120.png'} ]
@@ -170,21 +171,21 @@ function playEpisode(id) {
 }
 
 function getDuration(duration) {
-   var d = duration.split(":");
-   var hours   = parseInt(d[0]);
-   var minutes = parseInt(d[1]);
-   var seconds = parseInt(d[2]);
-   var hoursRounded   = hours;
-   var minutesRounded = minutes + (seconds > 30);
+  var hours   = Math.floor(parseInt(duration) / 3600);
+  var minutes = Math.floor((parseInt(duration) % 3600) / 60);
+  var seconds = Math.floor(parseInt(duration) % 60);
 
-   if (minutesRounded === 60) {
-     hoursRounded = hoursRounded + 1;
-     minutesRounded = 0;
-   }
+  var hoursRounded   = hours;
+  var minutesRounded = minutes + (seconds > 30);
 
-   return (hours > 0 || minutes > 0) ?
-            (hoursRounded > 0 ? hoursRounded + " hr " : "") + minutesRounded + " min" :
-            seconds + " sec";
+  if (minutesRounded === 60) {
+    hoursRounded = hoursRounded + 1;
+    minutesRounded = 0;
+  }
+
+  return (hours > 0 || minutes > 0) ?
+           (hoursRounded > 0 ? hoursRounded + " hr " : "") + minutesRounded + " min" :
+           seconds + " sec";
 }
 
 var selectedEpisode = 0;
@@ -194,7 +195,7 @@ var html = "";
 for (var i = 0; i < episodes.length; i++) {
     html += "<div id='episode-" + i + "' class='podcast-episode' onclick='playEpisode(" + i + ")'>" +
             "<i id='playButton-" + i + "' class='fa fa-play-circle'></i> " +
-            "<span class='title'>" + episodes[i].title + "</span>" +
+            "<span class='title'>" + episodes[i].trackNo + ". " + episodes[i].title + "</span>" +
             "<span class='duration'>" + getDuration(episodes[i].duration) + "</span>" +
             "</div>";
 }

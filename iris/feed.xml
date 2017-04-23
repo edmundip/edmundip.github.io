@@ -4,6 +4,13 @@
   <title>瞳話故事</title>
   <description>一個天真無邪的小女孩，一個童心未泯的爸爸，兩人在床上合力創作睡前小故事。</description>
   <link>https://edmundip.github.io/iris/</link>
+  <image>
+    <title>瞳話故事</title>
+    <url>https://edmundip.github.io/iris/iris.jpg</url>
+    <link>https://edmundip.github.io/iris/</link>
+    <width>144</width>
+    <height>144</height>
+  </image>
   <language>zh-CN</language>
   <itunes:author>瞳瞳爸爸</itunes:author>
   <itunes:summary>一個天真無邪的小女孩，一個童心未泯的爸爸，兩人在床上合力創作睡前小故事。</itunes:summary>
@@ -15,8 +22,88 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Wed, 12 Apr 2017 20:12:27 GMT</lastBuildDate>
-  <pubDate>Wed, 12 Apr 2017 20:12:27 GMT</pubDate>
+  <lastBuildDate>Sun, 23 Apr 2017 07:57:00 GMT</lastBuildDate>
+  <pubDate>Sun, 23 Apr 2017 07:57:00 GMT</pubDate>
+  <item>
+    <title>111. 河塘捉魚</title>
+    <description>在河塘釣魚時，一條可惡的鯊魚將「姐姐」咬傷，爸爸和瞳瞳想出怎樣的方法對付它？</description>
+    <itunes:summary>在河塘釣魚時，一條可惡的鯊魚將「姐姐」咬傷，爸爸和瞳瞳想出怎樣的方法對付它？</itunes:summary>
+    <link>https://edmundip.github.io/iris/111.mp3</link>
+    <pubDate>Sat, 22 Apr 2017 10:12:43 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/111.mp3" length="22067698" type="audio/mp3"/>
+    <itunes:duration>00:45:58</itunes:duration>
+    <guid>https://edmundip.github.io/iris/111.mp3</guid>
+  </item>
+  <item>
+    <title>110. 魔法電話</title>
+    <description>魔法變變變，什麼東西也可變出來！</description>
+    <itunes:summary>魔法變變變，什麼東西也可變出來！</itunes:summary>
+    <link>https://edmundip.github.io/iris/110.mp3</link>
+    <pubDate>Sat, 22 Apr 2017 06:09:24 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/110.mp3" length="12064614" type="audio/mp3"/>
+    <itunes:duration>00:25:08</itunes:duration>
+    <guid>https://edmundip.github.io/iris/110.mp3</guid>
+  </item>
+  <item>
+    <title>109. 親子裝</title>
+    <description>爸爸、媽媽和瞳瞳穿上同款的叮噹親子汗衣。</description>
+    <itunes:summary>爸爸、媽媽和瞳瞳穿上同款的叮噹親子汗衣。</itunes:summary>
+    <link>https://edmundip.github.io/iris/109.mp3</link>
+    <pubDate>Fri, 21 Apr 2017 14:39:50 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/109.mp3" length="6220300" type="audio/mp3"/>
+    <itunes:duration>00:12:57</itunes:duration>
+    <guid>https://edmundip.github.io/iris/109.mp3</guid>
+  </item>
+  <item>
+    <title>108. 失物探測器</title>
+    <description>東西不見了？快用「失物探測器」找回來。</description>
+    <itunes:summary>東西不見了？快用「失物探測器」找回來。</itunes:summary>
+    <link>https://edmundip.github.io/iris/108.mp3</link>
+    <pubDate>Thu, 20 Apr 2017 03:06:19 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/108.mp3" length="8193070" type="audio/mp3"/>
+    <itunes:duration>00:17:04</itunes:duration>
+    <guid>https://edmundip.github.io/iris/108.mp3</guid>
+  </item>
+  <item>
+    <title>107. 雲桂之旅@德天瀑布</title>
+    <description>我們乘車到廣西，參觀中越邊境的徳天瀑布。</description>
+    <itunes:summary>我們乘車到廣西，參觀中越邊境的徳天瀑布。</itunes:summary>
+    <link>https://edmundip.github.io/iris/107.mp3</link>
+    <pubDate>Wed, 19 Apr 2017 18:55:22 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/107.mp3" length="17543039" type="audio/mp3"/>
+    <itunes:duration>00:36:33</itunes:duration>
+    <guid>https://edmundip.github.io/iris/107.mp3</guid>
+  </item>
+  <item>
+    <title>106. 雲桂之旅@通靈大峽谷</title>
+    <description>到了大峽谷下的水濂洞後，瞳瞳用瀑布水洗臉。</description>
+    <itunes:summary>到了大峽谷下的水濂洞後，瞳瞳用瀑布水洗臉。</itunes:summary>
+    <link>https://edmundip.github.io/iris/106.mp3</link>
+    <pubDate>Wed, 19 Apr 2017 18:15:23 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/106.mp3" length="19982046" type="audio/mp3"/>
+    <itunes:duration>00:41:38</itunes:duration>
+    <guid>https://edmundip.github.io/iris/106.mp3</guid>
+  </item>
+  <item>
+    <title>105. 雲桂之旅@天鵝湖</title>
+    <description>我們一起餵食天鵝。</description>
+    <itunes:summary>我們一起餵食天鵝。</itunes:summary>
+    <link>https://edmundip.github.io/iris/105.mp3</link>
+    <pubDate>Tue, 18 Apr 2017 14:53:58 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/105.mp3" length="16073668" type="audio/mp3"/>
+    <itunes:duration>00:33:29</itunes:duration>
+    <guid>https://edmundip.github.io/iris/105.mp3</guid>
+  </item>
+  <item>
+    <title>104. 雲桂之旅@篝火晚會</title>
+    <description>坐完七個半小時高鐵到雲南後，我們參加了一場篝火晚會，更受邀上台跳舞。</description>
+    <itunes:summary>坐完七個半小時高鐵到雲南後，我們參加了一場篝火晚會，更受邀上台跳舞。</itunes:summary>
+    <link>https://edmundip.github.io/iris/104.mp3</link>
+    <pubDate>Tue, 18 Apr 2017 14:53:58 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/104.mp3" length="17682680" type="audio/mp3"/>
+    <itunes:duration>00:36:50</itunes:duration>
+    <guid>https://edmundip.github.io/iris/104.mp3</guid>
+  </item>
   <item>
     <title>103. 蔬菜沙拉</title>
     <description>小丟丟近日去不了便便，好朋友瞳瞳準備了一盒蔬菜沙拉給他吃。</description>
@@ -25,6 +112,7 @@
     <pubDate>Tue, 11 Apr 2017 12:54:28 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/103.mp3" length="7872105" type="audio/mp3"/>
     <itunes:duration>00:16:24</itunes:duration>
+    <guid>https://edmundip.github.io/iris/103.mp3</guid>
   </item>
   <item>
     <title>102. 拯救彥臻</title>
@@ -34,6 +122,7 @@
     <pubDate>Sun, 09 Apr 2017 15:04:37 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/102.mp3" length="7060816" type="audio/mp3"/>
     <itunes:duration>00:14:43</itunes:duration>
+    <guid>https://edmundip.github.io/iris/102.mp3</guid>
   </item>
   <item>
     <title>101. 濕地公園</title>
@@ -43,6 +132,7 @@
     <pubDate>Sun, 09 Apr 2017 14:43:19 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/101.mp3" length="22898955" type="audio/mp3"/>
     <itunes:duration>00:47:42</itunes:duration>
+    <guid>https://edmundip.github.io/iris/101.mp3</guid>
   </item>
   <item>
     <title>100. 百集回顧</title>
@@ -52,6 +142,7 @@
     <pubDate>Wed, 05 Apr 2017 13:57:52 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/100.mp3" length="27107643" type="audio/mp3"/>
     <itunes:duration>00:56:28</itunes:duration>
+    <guid>https://edmundip.github.io/iris/100.mp3</guid>
   </item>
   <item>
     <title>99. 家居機械人</title>
@@ -61,6 +152,7 @@
     <pubDate>Sun, 02 Apr 2017 10:16:00 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/099.mp3" length="15965033" type="audio/mp3"/>
     <itunes:duration>00:33:16</itunes:duration>
+    <guid>https://edmundip.github.io/iris/099.mp3</guid>
   </item>
   <item>
     <title>98. 鬼怪存在嗎</title>
@@ -70,6 +162,7 @@
     <pubDate>Thu, 30 Mar 2017 15:11:07 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/098.mp3" length="7202725" type="audio/mp3"/>
     <itunes:duration>00:15:00</itunes:duration>
+    <guid>https://edmundip.github.io/iris/098.mp3</guid>
   </item>
   <item>
     <title>97. 新iPad出世</title>
@@ -79,6 +172,7 @@
     <pubDate>Thu, 30 Mar 2017 12:21:35 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/097.mp3" length="5128160" type="audio/mp3"/>
     <itunes:duration>00:10:41</itunes:duration>
+    <guid>https://edmundip.github.io/iris/097.mp3</guid>
   </item>
   <item>
     <title>96. 買襪子</title>
@@ -88,6 +182,7 @@
     <pubDate>Wed, 29 Mar 2017 12:59:52 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/096.mp3" length="7554886" type="audio/mp3"/>
     <itunes:duration>00:15:44</itunes:duration>
+    <guid>https://edmundip.github.io/iris/096.mp3</guid>
   </item>
   <item>
     <title>95. 鏡子世界</title>
@@ -97,6 +192,7 @@
     <pubDate>Sun, 26 Mar 2017 15:36:43 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/095.mp3" length="6366511" type="audio/mp3"/>
     <itunes:duration>00:13:16</itunes:duration>
+    <guid>https://edmundip.github.io/iris/095.mp3</guid>
   </item>
   <item>
     <title>94. 三十年後的豆豆</title>
@@ -106,6 +202,7 @@
     <pubDate>Sun, 26 Mar 2017 10:34:29 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/094.mp3" length="16202226" type="audio/mp3"/>
     <itunes:duration>00:33:45</itunes:duration>
+    <guid>https://edmundip.github.io/iris/094.mp3</guid>
   </item>
   <item>
     <title>93. 十年後的瞳瞳</title>
@@ -115,6 +212,7 @@
     <pubDate>Sun, 26 Mar 2017 09:51:04 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/093.mp3" length="10308545" type="audio/mp3"/>
     <itunes:duration>00:21:29</itunes:duration>
+    <guid>https://edmundip.github.io/iris/093.mp3</guid>
   </item>
   <item>
     <title>92. 爸爸病了</title>
@@ -124,6 +222,7 @@
     <pubDate>Sun, 26 Mar 2017 07:07:32 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/092.mp3" length="6628978" type="audio/mp3"/>
     <itunes:duration>00:13:49</itunes:duration>
+    <guid>https://edmundip.github.io/iris/092.mp3</guid>
   </item>
   <item>
     <title>91. 幸福的餃子</title>
@@ -133,6 +232,7 @@
     <pubDate>Mon, 20 Mar 2017 15:08:42 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/091.mp3" length="1521181" type="audio/mp3"/>
     <itunes:duration>00:03:10</itunes:duration>
+    <guid>https://edmundip.github.io/iris/091.mp3</guid>
   </item>
   <item>
     <title>90. 參觀國際金融中心</title>
@@ -142,6 +242,7 @@
     <pubDate>Sat, 18 Mar 2017 15:14:12 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/090.mp3" length="9029833" type="audio/mp3"/>
     <itunes:duration>00:18:49</itunes:duration>
+    <guid>https://edmundip.github.io/iris/090.mp3</guid>
   </item>
   <item>
     <title>89. 捐血</title>
@@ -151,6 +252,7 @@
     <pubDate>Fri, 17 Mar 2017 13:17:15 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/089.mp3" length="12250384" type="audio/mp3"/>
     <itunes:duration>00:25:31</itunes:duration>
+    <guid>https://edmundip.github.io/iris/089.mp3</guid>
   </item>
   <item>
     <title>88. 工作紙</title>
@@ -160,6 +262,7 @@
     <pubDate>Thu, 16 Mar 2017 15:54:21 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/088.mp3" length="6347789" type="audio/mp3"/>
     <itunes:duration>00:13:13</itunes:duration>
+    <guid>https://edmundip.github.io/iris/088.mp3</guid>
   </item>
   <item>
     <title>87. 零用錢</title>
@@ -169,6 +272,7 @@
     <pubDate>Wed, 15 Mar 2017 15:16:06 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/087.mp3" length="9756628" type="audio/mp3"/>
     <itunes:duration>00:20:20</itunes:duration>
+    <guid>https://edmundip.github.io/iris/087.mp3</guid>
   </item>
   <item>
     <title>86. 香港紅十字會</title>
@@ -178,6 +282,7 @@
     <pubDate>Mon, 13 Mar 2017 14:09:27 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/086.mp3" length="13388905" type="audio/mp3"/>
     <itunes:duration>00:27:54</itunes:duration>
+    <guid>https://edmundip.github.io/iris/086.mp3</guid>
   </item>
   <item>
     <title>85. 飲茶</title>
@@ -187,6 +292,7 @@
     <pubDate>Mon, 13 Mar 2017 11:26:25 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/085.mp3" length="2479113" type="audio/mp3"/>
     <itunes:duration>00:05:10</itunes:duration>
+    <guid>https://edmundip.github.io/iris/085.mp3</guid>
   </item>
   <item>
     <title>84. 小BB發炎</title>
@@ -196,6 +302,7 @@
     <pubDate>Fri, 10 Mar 2017 15:25:06 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/084.mp3" length="11979766" type="audio/mp3"/>
     <itunes:duration>00:24:57</itunes:duration>
+    <guid>https://edmundip.github.io/iris/084.mp3</guid>
   </item>
   <item>
     <title>83. 發惡夢</title>
@@ -205,6 +312,7 @@
     <pubDate>Fri, 10 Mar 2017 14:52:56 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/083.mp3" length="17344080" type="audio/mp3"/>
     <itunes:duration>00:36:08</itunes:duration>
+    <guid>https://edmundip.github.io/iris/083.mp3</guid>
   </item>
   <item>
     <title>82. 大姐姐大哥哥(三)</title>
@@ -214,6 +322,7 @@
     <pubDate>Thu, 09 Mar 2017 14:40:51 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/082.mp3" length="16473141" type="audio/mp3"/>
     <itunes:duration>00:34:19</itunes:duration>
+    <guid>https://edmundip.github.io/iris/082.mp3</guid>
   </item>
   <item>
     <title>81. 地球生病了</title>
@@ -223,6 +332,7 @@
     <pubDate>Mon, 06 Mar 2017 15:18:18 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/081.mp3" length="5457285" type="audio/mp3"/>
     <itunes:duration>00:11:22</itunes:duration>
+    <guid>https://edmundip.github.io/iris/081.mp3</guid>
   </item>
   <item>
     <title>80. 朗朗是大哥哥</title>
@@ -232,6 +342,7 @@
     <pubDate>Mon, 06 Mar 2017 15:02:07 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/080.mp3" length="13804995" type="audio/mp3"/>
     <itunes:duration>00:28:46</itunes:duration>
+    <guid>https://edmundip.github.io/iris/080.mp3</guid>
   </item>
   <item>
     <title>79. 趕走病菌兵團</title>
@@ -241,6 +352,7 @@
     <pubDate>Sat, 04 Mar 2017 16:48:19 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/079.mp3" length="9466797" type="audio/mp3"/>
     <itunes:duration>00:19:43</itunes:duration>
+    <guid>https://edmundip.github.io/iris/079.mp3</guid>
   </item>
   <item>
     <title>78. 面具人</title>
@@ -250,6 +362,7 @@
     <pubDate>Sat, 04 Mar 2017 07:26:00 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/078.mp3" length="15634212" type="audio/mp3"/>
     <itunes:duration>00:32:34</itunes:duration>
+    <guid>https://edmundip.github.io/iris/078.mp3</guid>
   </item>
   <item>
     <title>77. 照顧妹妹</title>
@@ -259,6 +372,7 @@
     <pubDate>Sat, 04 Mar 2017 06:32:49 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/077.mp3" length="9339320" type="audio/mp3"/>
     <itunes:duration>00:19:27</itunes:duration>
+    <guid>https://edmundip.github.io/iris/077.mp3</guid>
   </item>
   <item>
     <title>76. 生日快樂</title>
@@ -268,6 +382,7 @@
     <pubDate>Thu, 02 Mar 2017 07:53:27 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/076.mp3" length="14164876" type="audio/mp3"/>
     <itunes:duration>00:29:31</itunes:duration>
+    <guid>https://edmundip.github.io/iris/076.mp3</guid>
   </item>
   <item>
     <title>75. 爸爸看醫生</title>
@@ -277,6 +392,7 @@
     <pubDate>Thu, 02 Mar 2017 04:48:12 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/075.mp3" length="13601658" type="audio/mp3"/>
     <itunes:duration>00:28:20</itunes:duration>
+    <guid>https://edmundip.github.io/iris/075.mp3</guid>
   </item>
   <item>
     <title>74. 小丟丟生病</title>
@@ -286,6 +402,7 @@
     <pubDate>Wed, 01 Mar 2017 11:59:17 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/074.mp3" length="5225117" type="audio/mp3"/>
     <itunes:duration>00:10:53</itunes:duration>
+    <guid>https://edmundip.github.io/iris/074.mp3</guid>
   </item>
   <item>
     <title>73. 失眠</title>
@@ -295,6 +412,7 @@
     <pubDate>Sat, 25 Feb 2017 14:41:36 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/073.mp3" length="4502054" type="audio/mp3"/>
     <itunes:duration>00:09:23</itunes:duration>
+    <guid>https://edmundip.github.io/iris/073.mp3</guid>
   </item>
   <item>
     <title>72. 無國界醫生</title>
@@ -304,6 +422,7 @@
     <pubDate>Tue, 14 Feb 2017 12:25:39 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/072.mp3" length="5453380" type="audio/mp3"/>
     <itunes:duration>00:11:22</itunes:duration>
+    <guid>https://edmundip.github.io/iris/072.mp3</guid>
   </item>
   <item>
     <title>71. 選小學</title>
@@ -313,6 +432,7 @@
     <pubDate>Fri, 10 Feb 2017 15:41:47 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/071.mp3" length="7779687" type="audio/mp3"/>
     <itunes:duration>00:16:12</itunes:duration>
+    <guid>https://edmundip.github.io/iris/071.mp3</guid>
   </item>
   <item>
     <title>70. 太陽伯伯病了</title>
@@ -322,6 +442,7 @@
     <pubDate>Thu, 09 Feb 2017 15:39:08 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/070.mp3" length="9558745" type="audio/mp3"/>
     <itunes:duration>00:19:55</itunes:duration>
+    <guid>https://edmundip.github.io/iris/070.mp3</guid>
   </item>
   <item>
     <title>69. 爸爸肚痛</title>
@@ -331,6 +452,7 @@
     <pubDate>Wed, 08 Feb 2017 12:24:41 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/069.mp3" length="13791191" type="audio/mp3"/>
     <itunes:duration>00:28:44</itunes:duration>
+    <guid>https://edmundip.github.io/iris/069.mp3</guid>
   </item>
   <item>
     <title>68. 豆豆遇溺</title>
@@ -340,6 +462,7 @@
     <pubDate>Mon, 06 Feb 2017 15:57:33 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/068.mp3" length="11631614" type="audio/mp3"/>
     <itunes:duration>00:24:14</itunes:duration>
+    <guid>https://edmundip.github.io/iris/068.mp3</guid>
   </item>
   <item>
     <title>67. 中文字的演化</title>
@@ -349,6 +472,7 @@
     <pubDate>Sun, 05 Feb 2017 15:28:58 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/067.mp3" length="10773976" type="audio/mp3"/>
     <itunes:duration>00:22:27</itunes:duration>
+    <guid>https://edmundip.github.io/iris/067.mp3</guid>
   </item>
   <item>
     <title>66. 琴琴入院</title>
@@ -358,6 +482,7 @@
     <pubDate>Sun, 05 Feb 2017 03:37:12 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/066.mp3" length="3250699" type="audio/mp3"/>
     <itunes:duration>00:06:46</itunes:duration>
+    <guid>https://edmundip.github.io/iris/066.mp3</guid>
   </item>
   <item>
     <title>65. 泳客遇溺</title>
@@ -367,6 +492,7 @@
     <pubDate>Sat, 04 Feb 2017 16:27:41 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/065.mp3" length="15980485" type="audio/mp3"/>
     <itunes:duration>00:33:18</itunes:duration>
+    <guid>https://edmundip.github.io/iris/065.mp3</guid>
   </item>
   <item>
     <title>64. 爸爸腰痛</title>
@@ -376,6 +502,7 @@
     <pubDate>Fri, 03 Feb 2017 16:02:24 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/064.mp3" length="8897316" type="audio/mp3"/>
     <itunes:duration>00:18:32</itunes:duration>
+    <guid>https://edmundip.github.io/iris/064.mp3</guid>
   </item>
   <item>
     <title>63. 兩個瞳瞳</title>
@@ -385,6 +512,7 @@
     <pubDate>Wed, 01 Feb 2017 17:10:14 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/063.mp3" length="5900554" type="audio/mp3"/>
     <itunes:duration>00:12:18</itunes:duration>
+    <guid>https://edmundip.github.io/iris/063.mp3</guid>
   </item>
   <item>
     <title>62. 爸爸茶餐廳</title>
@@ -394,6 +522,7 @@
     <pubDate>Wed, 01 Feb 2017 16:49:45 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/062.mp3" length="7622572" type="audio/mp3"/>
     <itunes:duration>00:15:53</itunes:duration>
+    <guid>https://edmundip.github.io/iris/062.mp3</guid>
   </item>
   <item>
     <title>61. 瞳瞳餐廳</title>
@@ -403,6 +532,7 @@
     <pubDate>Tue, 31 Jan 2017 14:09:01 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/061.mp3" length="11769357" type="audio/mp3"/>
     <itunes:duration>00:24:31</itunes:duration>
+    <guid>https://edmundip.github.io/iris/061.mp3</guid>
   </item>
   <item>
     <title>60. 工具被偷</title>
@@ -412,6 +542,7 @@
     <pubDate>Sun, 29 Jan 2017 12:13:54 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/060.mp3" length="2507370" type="audio/mp3"/>
     <itunes:duration>00:05:13</itunes:duration>
+    <guid>https://edmundip.github.io/iris/060.mp3</guid>
   </item>
   <item>
     <title>59. 鼻塞</title>
@@ -421,6 +552,7 @@
     <pubDate>Sat, 28 Jan 2017 14:51:31 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/059.mp3" length="4257106" type="audio/mp3"/>
     <itunes:duration>00:08:52</itunes:duration>
+    <guid>https://edmundip.github.io/iris/059.mp3</guid>
   </item>
   <item>
     <title>58. 打嗝</title>
@@ -430,6 +562,7 @@
     <pubDate>Sat, 28 Jan 2017 14:42:29 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/058.mp3" length="1145606" type="audio/mp3"/>
     <itunes:duration>00:02:23</itunes:duration>
+    <guid>https://edmundip.github.io/iris/058.mp3</guid>
   </item>
   <item>
     <title>57. 玩沙砲</title>
@@ -439,6 +572,7 @@
     <pubDate>Sat, 28 Jan 2017 10:14:59 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/057.mp3" length="2440452" type="audio/mp3"/>
     <itunes:duration>00:05:05</itunes:duration>
+    <guid>https://edmundip.github.io/iris/057.mp3</guid>
   </item>
   <item>
     <title>56. iPhone壞了</title>
@@ -448,6 +582,7 @@
     <pubDate>Sat, 28 Jan 2017 10:00:49 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/056.mp3" length="1763827" type="audio/mp3"/>
     <itunes:duration>00:03:40</itunes:duration>
+    <guid>https://edmundip.github.io/iris/056.mp3</guid>
   </item>
   <item>
     <title>55. 派紅包</title>
@@ -457,6 +592,7 @@
     <pubDate>Fri, 27 Jan 2017 15:06:18 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/055.mp3" length="2344979" type="audio/mp3"/>
     <itunes:duration>00:04:53</itunes:duration>
+    <guid>https://edmundip.github.io/iris/055.mp3</guid>
   </item>
   <item>
     <title>54. 瞳瞳精品店</title>
@@ -466,6 +602,7 @@
     <pubDate>Fri, 27 Jan 2017 09:42:21 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/054.mp3" length="23168965" type="audio/mp3"/>
     <itunes:duration>00:48:16</itunes:duration>
+    <guid>https://edmundip.github.io/iris/054.mp3</guid>
   </item>
   <item>
     <title>53. 八達通</title>
@@ -475,6 +612,7 @@
     <pubDate>Wed, 25 Jan 2017 13:00:47 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/053.mp3" length="11913106" type="audio/mp3"/>
     <itunes:duration>00:24:49</itunes:duration>
+    <guid>https://edmundip.github.io/iris/053.mp3</guid>
   </item>
   <item>
     <title>52. 層層疊比賽(二)</title>
@@ -484,6 +622,7 @@
     <pubDate>Tue, 24 Jan 2017 14:38:06 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/052.mp3" length="4132409" type="audio/mp3"/>
     <itunes:duration>00:08:36</itunes:duration>
+    <guid>https://edmundip.github.io/iris/052.mp3</guid>
   </item>
   <item>
     <title>51. 層層疊比賽(一)</title>
@@ -493,6 +632,7 @@
     <pubDate>Tue, 24 Jan 2017 14:25:45 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/051.mp3" length="5001552" type="audio/mp3"/>
     <itunes:duration>00:10:25</itunes:duration>
+    <guid>https://edmundip.github.io/iris/051.mp3</guid>
   </item>
   <item>
     <title>50. 改花名</title>
@@ -502,6 +642,7 @@
     <pubDate>Thu, 19 Jan 2017 15:33:43 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/050.mp3" length="9831021" type="audio/mp3"/>
     <itunes:duration>00:20:29</itunes:duration>
+    <guid>https://edmundip.github.io/iris/050.mp3</guid>
   </item>
   <item>
     <title>49. 打翻斗</title>
@@ -511,6 +652,7 @@
     <pubDate>Thu, 19 Jan 2017 13:40:53 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/049.mp3" length="6713891" type="audio/mp3"/>
     <itunes:duration>00:13:59</itunes:duration>
+    <guid>https://edmundip.github.io/iris/049.mp3</guid>
   </item>
   <item>
     <title>48. 照顧寶寶</title>
@@ -520,6 +662,7 @@
     <pubDate>Thu, 19 Jan 2017 13:01:47 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/048.mp3" length="17764974" type="audio/mp3"/>
     <itunes:duration>00:37:01</itunes:duration>
+    <guid>https://edmundip.github.io/iris/048.mp3</guid>
   </item>
   <item>
     <title>47. 學校考試</title>
@@ -529,6 +672,7 @@
     <pubDate>Wed, 18 Jan 2017 15:38:33 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/047.mp3" length="9695639" type="audio/mp3"/>
     <itunes:duration>00:20:12</itunes:duration>
+    <guid>https://edmundip.github.io/iris/047.mp3</guid>
   </item>
   <item>
     <title>46. 和尚挑水</title>
@@ -538,6 +682,7 @@
     <pubDate>Tue, 17 Jan 2017 13:38:24 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/046.mp3" length="3076189" type="audio/mp3"/>
     <itunes:duration>00:06:24</itunes:duration>
+    <guid>https://edmundip.github.io/iris/046.mp3</guid>
   </item>
   <item>
     <title>45. 蝴蝶結的功勞</title>
@@ -547,6 +692,7 @@
     <pubDate>Tue, 17 Jan 2017 13:31:36 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/045.mp3" length="2291898" type="audio/mp3"/>
     <itunes:duration>00:04:46</itunes:duration>
+    <guid>https://edmundip.github.io/iris/045.mp3</guid>
   </item>
   <item>
     <title>44. 吃火鍋</title>
@@ -556,6 +702,7 @@
     <pubDate>Sun, 15 Jan 2017 14:53:20 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/044.mp3" length="17965352" type="audio/mp3"/>
     <itunes:duration>00:37:26</itunes:duration>
+    <guid>https://edmundip.github.io/iris/044.mp3</guid>
   </item>
   <item>
     <title>43. 爸爸被打</title>
@@ -565,6 +712,7 @@
     <pubDate>Sat, 14 Jan 2017 15:45:07 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/043.mp3" length="4495561" type="audio/mp3"/>
     <itunes:duration>00:09:22</itunes:duration>
+    <guid>https://edmundip.github.io/iris/043.mp3</guid>
   </item>
   <item>
     <title>42. 垃圾蟲</title>
@@ -574,6 +722,7 @@
     <pubDate>Sat, 14 Jan 2017 15:27:54 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/042.mp3" length="4821169" type="audio/mp3"/>
     <itunes:duration>00:10:03</itunes:duration>
+    <guid>https://edmundip.github.io/iris/042.mp3</guid>
   </item>
   <item>
     <title>41. 十二生肖</title>
@@ -583,6 +732,7 @@
     <pubDate>Sat, 14 Jan 2017 03:28:56 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/041.mp3" length="4227467" type="audio/mp3"/>
     <itunes:duration>00:08:48</itunes:duration>
+    <guid>https://edmundip.github.io/iris/041.mp3</guid>
   </item>
   <item>
     <title>40. 電話對談</title>
@@ -592,6 +742,7 @@
     <pubDate>Sat, 14 Jan 2017 02:54:08 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/040.mp3" length="7178864" type="audio/mp3"/>
     <itunes:duration>00:14:57</itunes:duration>
+    <guid>https://edmundip.github.io/iris/040.mp3</guid>
   </item>
   <item>
     <title>39. 歌唱比賽</title>
@@ -601,6 +752,7 @@
     <pubDate>Fri, 13 Jan 2017 15:11:54 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/039.mp3" length="4357852" type="audio/mp3"/>
     <itunes:duration>00:09:05</itunes:duration>
+    <guid>https://edmundip.github.io/iris/039.mp3</guid>
   </item>
   <item>
     <title>38. 為何二月只得廿八天？</title>
@@ -610,6 +762,7 @@
     <pubDate>Wed, 11 Jan 2017 14:25:16 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/038.mp3" length="12653560" type="audio/mp3"/>
     <itunes:duration>00:26:22</itunes:duration>
+    <guid>https://edmundip.github.io/iris/038.mp3</guid>
   </item>
   <item>
     <title>37. 參觀海洋公園</title>
@@ -619,6 +772,7 @@
     <pubDate>Tue, 10 Jan 2017 14:35:01 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/037.mp3" length="18972470" type="audio/mp3"/>
     <itunes:duration>00:39:32</itunes:duration>
+    <guid>https://edmundip.github.io/iris/037.mp3</guid>
   </item>
   <item>
     <title>36. 爸爸拉肚子</title>
@@ -628,6 +782,7 @@
     <pubDate>Tue, 10 Jan 2017 14:23:22 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/036.mp3" length="3963332" type="audio/mp3"/>
     <itunes:duration>00:08:15</itunes:duration>
+    <guid>https://edmundip.github.io/iris/036.mp3</guid>
   </item>
   <item>
     <title>35. 海洋公園</title>
@@ -637,6 +792,7 @@
     <pubDate>Sun, 08 Jan 2017 14:38:48 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/035.mp3" length="8266236" type="audio/mp3"/>
     <itunes:duration>00:17:13</itunes:duration>
+    <guid>https://edmundip.github.io/iris/035.mp3</guid>
   </item>
   <item>
     <title>34. 家居大清潔</title>
@@ -646,6 +802,7 @@
     <pubDate>Sat, 07 Jan 2017 15:08:02 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/034.mp3" length="5885929" type="audio/mp3"/>
     <itunes:duration>00:12:16</itunes:duration>
+    <guid>https://edmundip.github.io/iris/034.mp3</guid>
   </item>
   <item>
     <title>33. 瞳瞳跌倒</title>
@@ -655,6 +812,7 @@
     <pubDate>Sat, 07 Jan 2017 14:50:43 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/033.mp3" length="7088176" type="audio/mp3"/>
     <itunes:duration>00:14:46</itunes:duration>
+    <guid>https://edmundip.github.io/iris/033.mp3</guid>
   </item>
   <item>
     <title>32. 醫生做手術</title>
@@ -664,6 +822,7 @@
     <pubDate>Sat, 07 Jan 2017 07:29:20 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/032.mp3" length="4671966" type="audio/mp3"/>
     <itunes:duration>00:09:44</itunes:duration>
+    <guid>https://edmundip.github.io/iris/032.mp3</guid>
   </item>
   <item>
     <title>31. 妹妹看醫生</title>
@@ -673,6 +832,7 @@
     <pubDate>Sat, 07 Jan 2017 06:54:20 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/031.mp3" length="14598948" type="audio/mp3"/>
     <itunes:duration>00:30:25</itunes:duration>
+    <guid>https://edmundip.github.io/iris/031.mp3</guid>
   </item>
   <item>
     <title>30. 南極和北極</title>
@@ -682,6 +842,7 @@
     <pubDate>Sat, 07 Jan 2017 03:03:50 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/030.mp3" length="3809132" type="audio/mp3"/>
     <itunes:duration>00:07:56</itunes:duration>
+    <guid>https://edmundip.github.io/iris/030.mp3</guid>
   </item>
   <item>
     <title>29. 為何在冬天仍穿短衣？</title>
@@ -691,6 +852,7 @@
     <pubDate>Fri, 06 Jan 2017 16:39:00 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/029.mp3" length="14546321" type="audio/mp3"/>
     <itunes:duration>00:30:18</itunes:duration>
+    <guid>https://edmundip.github.io/iris/029.mp3</guid>
   </item>
   <item>
     <title>28. 大姨婆腳痛</title>
@@ -700,6 +862,7 @@
     <pubDate>Wed, 04 Jan 2017 15:06:27 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/028.mp3" length="1520345" type="audio/mp3"/>
     <itunes:duration>00:03:10</itunes:duration>
+    <guid>https://edmundip.github.io/iris/028.mp3</guid>
   </item>
   <item>
     <title>27. 2016回顧</title>
@@ -709,6 +872,7 @@
     <pubDate>Wed, 04 Jan 2017 14:07:52 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/027.mp3" length="14806001" type="audio/mp3"/>
     <itunes:duration>00:30:51</itunes:duration>
+    <guid>https://edmundip.github.io/iris/027.mp3</guid>
   </item>
   <item>
     <title>26. 妹妹搶毛巾</title>
@@ -718,6 +882,7 @@
     <pubDate>Wed, 04 Jan 2017 13:33:40 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/026.mp3" length="12201922" type="audio/mp3"/>
     <itunes:duration>00:25:25</itunes:duration>
+    <guid>https://edmundip.github.io/iris/026.mp3</guid>
   </item>
   <item>
     <title>25. 踏單車比賽</title>
@@ -727,6 +892,7 @@
     <pubDate>Wed, 28 Dec 2016 16:58:22 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/025.mp3" length="4955531" type="audio/mp3"/>
     <itunes:duration>00:10:19</itunes:duration>
+    <guid>https://edmundip.github.io/iris/025.mp3</guid>
   </item>
   <item>
     <title>24. 單車歷險記</title>
@@ -736,6 +902,7 @@
     <pubDate>Tue, 27 Dec 2016 16:12:44 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/024.mp3" length="4320036" type="audio/mp3"/>
     <itunes:duration>00:09:00</itunes:duration>
+    <guid>https://edmundip.github.io/iris/024.mp3</guid>
   </item>
   <item>
     <title>23. 爺爺肚痛</title>
@@ -745,6 +912,7 @@
     <pubDate>Tue, 27 Dec 2016 16:05:55 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/023.mp3" length="3219140" type="audio/mp3"/>
     <itunes:duration>00:06:42</itunes:duration>
+    <guid>https://edmundip.github.io/iris/023.mp3</guid>
   </item>
   <item>
     <title>22. 摩士公園嘉年華會</title>
@@ -754,6 +922,7 @@
     <pubDate>Sun, 25 Dec 2016 15:32:58 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/022.mp3" length="15674121" type="audio/mp3"/>
     <itunes:duration>00:32:39</itunes:duration>
+    <guid>https://edmundip.github.io/iris/022.mp3</guid>
   </item>
   <item>
     <title>21. 角色互換</title>
@@ -763,6 +932,7 @@
     <pubDate>Sat, 24 Dec 2016 16:52:15 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/021.mp3" length="15947042" type="audio/mp3"/>
     <itunes:duration>00:33:13</itunes:duration>
+    <guid>https://edmundip.github.io/iris/021.mp3</guid>
   </item>
   <item>
     <title>20. 宇軒百日宴</title>
@@ -772,6 +942,7 @@
     <pubDate>Fri, 23 Dec 2016 15:44:02 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/020.mp3" length="12441204" type="audio/mp3"/>
     <itunes:duration>00:25:55</itunes:duration>
+    <guid>https://edmundip.github.io/iris/020.mp3</guid>
   </item>
   <item>
     <title>19. 聖誕老人</title>
@@ -781,6 +952,7 @@
     <pubDate>Wed, 21 Dec 2016 16:22:16 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/019.mp3" length="21497988" type="audio/mp3"/>
     <itunes:duration>00:44:47</itunes:duration>
+    <guid>https://edmundip.github.io/iris/019.mp3</guid>
   </item>
   <item>
     <title>18. 到醫院探望太姑丈公</title>
@@ -790,6 +962,7 @@
     <pubDate>Tue, 20 Dec 2016 15:55:57 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/018.mp3" length="11065109" type="audio/mp3"/>
     <itunes:duration>00:23:03</itunes:duration>
+    <guid>https://edmundip.github.io/iris/018.mp3</guid>
   </item>
   <item>
     <title>17. 電話外殼破裂</title>
@@ -799,6 +972,7 @@
     <pubDate>Fri, 16 Dec 2016 17:10:42 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/017.mp3" length="5561574" type="audio/mp3"/>
     <itunes:duration>00:11:35</itunes:duration>
+    <guid>https://edmundip.github.io/iris/017.mp3</guid>
   </item>
   <item>
     <title>16. 報佳音</title>
@@ -808,6 +982,7 @@
     <pubDate>Fri, 16 Dec 2016 16:04:09 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/016.mp3" length="16092288" type="audio/mp3"/>
     <itunes:duration>00:16:46</itunes:duration>
+    <guid>https://edmundip.github.io/iris/016.mp3</guid>
   </item>
   <item>
     <title>15. 靜文作嘔</title>
@@ -817,6 +992,7 @@
     <pubDate>Wed, 14 Dec 2016 16:54:47 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/015.mp3" length="3445438" type="audio/mp3"/>
     <itunes:duration>00:07:11</itunes:duration>
+    <guid>https://edmundip.github.io/iris/015.mp3</guid>
   </item>
   <item>
     <title>14. 太姑丈公不能吃東西</title>
@@ -826,6 +1002,7 @@
     <pubDate>Wed, 14 Dec 2016 16:20:19 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/014.mp3" length="14370742" type="audio/mp3"/>
     <itunes:duration>00:29:56</itunes:duration>
+    <guid>https://edmundip.github.io/iris/014.mp3</guid>
   </item>
   <item>
     <title>13. 澄澄跌倒</title>
@@ -835,6 +1012,7 @@
     <pubDate>Tue, 13 Dec 2016 15:46:47 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/013.mp3" length="1286255" type="audio/mp3"/>
     <itunes:duration>00:02:41</itunes:duration>
+    <guid>https://edmundip.github.io/iris/013.mp3</guid>
   </item>
   <item>
     <title>12. 媽媽生日</title>
@@ -844,6 +1022,7 @@
     <pubDate>Tue, 13 Dec 2016 15:14:29 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/012.mp3" length="8423144" type="audio/mp3"/>
     <itunes:duration>00:17:33</itunes:duration>
+    <guid>https://edmundip.github.io/iris/012.mp3</guid>
   </item>
   <item>
     <title>11. 一班同學到澄澄家</title>
@@ -853,6 +1032,7 @@
     <pubDate>Tue, 13 Dec 2016 13:16:44 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/011.mp3" length="1549420" type="audio/mp3"/>
     <itunes:duration>00:03:14</itunes:duration>
+    <guid>https://edmundip.github.io/iris/011.mp3</guid>
   </item>
   <item>
     <title>10. 姐姐受傷了</title>
@@ -862,6 +1042,7 @@
     <pubDate>Mon, 12 Dec 2016 12:47:49 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/010.mp3" length="6345081" type="audio/mp3"/>
     <itunes:duration>00:13:13</itunes:duration>
+    <guid>https://edmundip.github.io/iris/010.mp3</guid>
   </item>
   <item>
     <title>9. 大賊姐姐</title>
@@ -871,6 +1052,7 @@
     <pubDate>Sun, 11 Dec 2016 13:39:58 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/009.mp3" length="5181506" type="audio/mp3"/>
     <itunes:duration>00:10:48</itunes:duration>
+    <guid>https://edmundip.github.io/iris/009.mp3</guid>
   </item>
   <item>
     <title>8. 小白兔</title>
@@ -880,6 +1062,7 @@
     <pubDate>Sun, 11 Dec 2016 11:26:30 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/008.mp3" length="143772" type="audio/mp3"/>
     <itunes:duration>00:00:18</itunes:duration>
+    <guid>https://edmundip.github.io/iris/008.mp3</guid>
   </item>
   <item>
     <title>7. 紅蘋果</title>
@@ -889,6 +1072,7 @@
     <pubDate>Sun, 11 Dec 2016 03:22:14 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/007.mp3" length="604998" type="audio/mp3"/>
     <itunes:duration>00:01:16</itunes:duration>
+    <guid>https://edmundip.github.io/iris/007.mp3</guid>
   </item>
   <item>
     <title>6. 大姐姐大哥哥(二)</title>
@@ -898,6 +1082,7 @@
     <pubDate>Fri, 09 Dec 2016 15:36:21 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/006.mp3" length="1165932" type="audio/mp3"/>
     <itunes:duration>00:02:26</itunes:duration>
+    <guid>https://edmundip.github.io/iris/006.mp3</guid>
   </item>
   <item>
     <title>5. 宇軒肚痛</title>
@@ -907,6 +1092,7 @@
     <pubDate>Fri, 09 Dec 2016 15:31:47 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/005.mp3" length="2019157" type="audio/mp3"/>
     <itunes:duration>00:04:12</itunes:duration>
+    <guid>https://edmundip.github.io/iris/005.mp3</guid>
   </item>
   <item>
     <title>4. 宇軒發燒</title>
@@ -916,6 +1102,7 @@
     <pubDate>Fri, 09 Dec 2016 15:17:55 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/004.mp3" length="5348838" type="audio/mp3"/>
     <itunes:duration>00:11:09</itunes:duration>
+    <guid>https://edmundip.github.io/iris/004.mp3</guid>
   </item>
   <item>
     <title>3. 穎欣妹妹</title>
@@ -925,6 +1112,7 @@
     <pubDate>Fri, 09 Dec 2016 14:50:48 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/003.mp3" length="10997957" type="audio/mp3"/>
     <itunes:duration>00:22:55</itunes:duration>
+    <guid>https://edmundip.github.io/iris/003.mp3</guid>
   </item>
   <item>
     <title>2. 瞳瞳眼中的媽媽</title>
@@ -934,6 +1122,7 @@
     <pubDate>Fri, 09 Dec 2016 13:14:50 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/002.mp3" length="1762133" type="audio/mp3"/>
     <itunes:duration>00:03:40</itunes:duration>
+    <guid>https://edmundip.github.io/iris/002.mp3</guid>
   </item>
   <item>
     <title>1. 大姐姐大哥哥</title>
@@ -943,6 +1132,7 @@
     <pubDate>Fri, 09 Dec 2016 12:32:15 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/001.mp3" length="1604566" type="audio/mp3"/>
     <itunes:duration>00:03:21</itunes:duration>
+    <guid>https://edmundip.github.io/iris/001.mp3</guid>
   </item>
 </channel>
 </rss>
