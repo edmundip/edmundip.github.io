@@ -4,13 +4,6 @@
   <title>瞳話故事</title>
   <description>一個天真無邪的小女孩，一個童心未泯的爸爸，兩人在床上合力創作睡前小故事。</description>
   <link>https://edmundip.github.io/iris/</link>
-  <image>
-    <title>瞳話故事</title>
-    <url>https://edmundip.github.io/iris/iris.jpg</url>
-    <link>https://edmundip.github.io/iris/</link>
-    <width>144</width>
-    <height>144</height>
-  </image>
   <language>zh-CN</language>
   <itunes:author>瞳瞳爸爸</itunes:author>
   <itunes:summary>一個天真無邪的小女孩，一個童心未泯的爸爸，兩人在床上合力創作睡前小故事。</itunes:summary>
@@ -22,8 +15,58 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Sun, 23 Apr 2017 07:57:00 GMT</lastBuildDate>
-  <pubDate>Sun, 23 Apr 2017 07:57:00 GMT</pubDate>
+  <lastBuildDate>Fri, 28 Apr 2017 05:47:02 GMT</lastBuildDate>
+  <pubDate>Fri, 28 Apr 2017 05:47:02 GMT</pubDate>
+  <item>
+    <title>116. 貓頭鷹控制器</title>
+    <description>瞳瞳擁有一部最新型號的貓頭鷹控制器。</description>
+    <itunes:summary>瞳瞳擁有一部最新型號的貓頭鷹控制器。</itunes:summary>
+    <link>https://edmundip.github.io/iris/116.mp3</link>
+    <pubDate>Thu, 27 Apr 2017 12:20:07 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/116.mp3" length="4862981" type="audio/mp3"/>
+    <itunes:duration>00:10:08</itunes:duration>
+    <guid>https://edmundip.github.io/iris/116.mp3</guid>
+  </item>
+  <item>
+    <title>115. 小丟丟@學做南瓜餅</title>
+    <description>小丟丟學習做南瓜餅。</description>
+    <itunes:summary>小丟丟學習做南瓜餅。</itunes:summary>
+    <link>https://edmundip.github.io/iris/115.mp3</link>
+    <pubDate>Wed, 26 Apr 2017 15:07:29 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/115.mp3" length="14192022" type="audio/mp3"/>
+    <itunes:duration>00:29:34</itunes:duration>
+    <guid>https://edmundip.github.io/iris/115.mp3</guid>
+  </item>
+  <item>
+    <title>114. 南瓜餅</title>
+    <description>大師傅媽媽和小師傅瞳瞳教大家如何製作南瓜餅。</description>
+    <itunes:summary>大師傅媽媽和小師傅瞳瞳教大家如何製作南瓜餅。</itunes:summary>
+    <link>https://edmundip.github.io/iris/114.mp3</link>
+    <pubDate>Mon, 24 Apr 2017 12:14:12 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/114.mp3" length="5759924" type="audio/mp3"/>
+    <itunes:duration>00:12:00</itunes:duration>
+    <guid>https://edmundip.github.io/iris/114.mp3</guid>
+  </item>
+  <item>
+    <title>113. 媽媽跌倒</title>
+    <description>媽媽不幸跌倒受傷。</description>
+    <itunes:summary>媽媽不幸跌倒受傷。</itunes:summary>
+    <link>https://edmundip.github.io/iris/113.mp3</link>
+    <pubDate>Sun, 23 Apr 2017 14:17:31 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/113.mp3" length="9177749" type="audio/mp3"/>
+    <itunes:duration>00:19:07</itunes:duration>
+    <guid>https://edmundip.github.io/iris/113.mp3</guid>
+  </item>
+  <item>
+    <title>112. 小丟丟@換牙牙</title>
+    <description>小丟丟到了換牙期，在吃排骨飯時脫了一只乳齒。</description>
+    <itunes:summary>小丟丟到了換牙期，在吃排骨飯時脫了一只乳齒。</itunes:summary>
+    <link>https://edmundip.github.io/iris/112.mp3</link>
+    <pubDate>Sun, 23 Apr 2017 13:42:55 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/112.mp3" length="4722350" type="audio/mp3"/>
+    <itunes:duration>00:09:50</itunes:duration>
+    <guid>https://edmundip.github.io/iris/112.mp3</guid>
+  </item>
   <item>
     <title>111. 河塘捉魚</title>
     <description>在河塘釣魚時，一條可惡的鯊魚將「姐姐」咬傷，爸爸和瞳瞳想出怎樣的方法對付它？</description>
