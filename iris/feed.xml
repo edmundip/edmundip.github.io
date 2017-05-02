@@ -15,8 +15,48 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Fri, 28 Apr 2017 05:47:02 GMT</lastBuildDate>
-  <pubDate>Fri, 28 Apr 2017 05:47:02 GMT</pubDate>
+  <lastBuildDate>Tue, 02 May 2017 23:17:32 GMT</lastBuildDate>
+  <pubDate>Tue, 02 May 2017 23:17:32 GMT</pubDate>
+  <item>
+    <title>120. 潛水比賽</title>
+    <description>瞳瞳和同學一起參加潛水比賽。</description>
+    <itunes:summary>瞳瞳和同學一起參加潛水比賽。</itunes:summary>
+    <link>https://edmundip.github.io/iris/120.mp3</link>
+    <pubDate>Mon, 01 May 2017 03:33:32 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/120.mp3" length="13026541" type="audio/mp3"/>
+    <itunes:duration>00:27:08</itunes:duration>
+    <guid>https://edmundip.github.io/iris/120.mp3</guid>
+  </item>
+  <item>
+    <title>119. 下白泥(二)</title>
+    <description>我們到下白泥捉蟹仔。</description>
+    <itunes:summary>我們到下白泥捉蟹仔。</itunes:summary>
+    <link>https://edmundip.github.io/iris/119.mp3</link>
+    <pubDate>Sun, 30 Apr 2017 15:42:27 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/119.mp3" length="15682662" type="audio/mp3"/>
+    <itunes:duration>00:32:40</itunes:duration>
+    <guid>https://edmundip.github.io/iris/119.mp3</guid>
+  </item>
+  <item>
+    <title>118. 下白泥(一)</title>
+    <description>瞳瞳提議去下白泥，爸爸和她一起討論出發前應作的準備。</description>
+    <itunes:summary>瞳瞳提議去下白泥，爸爸和她一起討論出發前應作的準備。</itunes:summary>
+    <link>https://edmundip.github.io/iris/118.mp3</link>
+    <pubDate>Sat, 29 Apr 2017 16:11:39 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/118.mp3" length="5320875" type="audio/mp3"/>
+    <itunes:duration>00:11:05</itunes:duration>
+    <guid>https://edmundip.github.io/iris/118.mp3</guid>
+  </item>
+  <item>
+    <title>117. 公共圖書館</title>
+    <description>爸爸向瞳瞳講解公共圖書館的借書流程。</description>
+    <itunes:summary>爸爸向瞳瞳講解公共圖書館的借書流程。</itunes:summary>
+    <link>https://edmundip.github.io/iris/117.mp3</link>
+    <pubDate>Fri, 28 Apr 2017 16:18:18 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/117.mp3" length="21883112" type="audio/mp3"/>
+    <itunes:duration>00:45:35</itunes:duration>
+    <guid>https://edmundip.github.io/iris/117.mp3</guid>
+  </item>
   <item>
     <title>116. 貓頭鷹控制器</title>
     <description>瞳瞳擁有一部最新型號的貓頭鷹控制器。</description>
