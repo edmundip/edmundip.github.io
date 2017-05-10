@@ -15,8 +15,58 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Tue, 02 May 2017 23:17:32 GMT</lastBuildDate>
-  <pubDate>Tue, 02 May 2017 23:17:32 GMT</pubDate>
+  <lastBuildDate>Wed, 10 May 2017 06:00:02 GMT</lastBuildDate>
+  <pubDate>Wed, 10 May 2017 06:00:02 GMT</pubDate>
+  <item>
+    <title>125. 畢業紀念冊</title>
+    <description>瞳瞳快將畢業，爸爸為她買了一本紀念冊。</description>
+    <itunes:summary>瞳瞳快將畢業，爸爸為她買了一本紀念冊。</itunes:summary>
+    <link>https://edmundip.github.io/iris/125.mp3</link>
+    <pubDate>Tue, 09 May 2017 14:41:13 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/125.mp3" length="9292512" type="audio/mp3"/>
+    <itunes:duration>00:19:22</itunes:duration>
+    <guid>https://edmundip.github.io/iris/125.mp3</guid>
+  </item>
+  <item>
+    <title>124. 豆豆生日會</title>
+    <description>在同學的生日會上，瞳瞳何解沒有吃生日蛋糕？</description>
+    <itunes:summary>在同學的生日會上，瞳瞳何解沒有吃生日蛋糕？</itunes:summary>
+    <link>https://edmundip.github.io/iris/124.mp3</link>
+    <pubDate>Sun, 07 May 2017 15:08:58 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/124.mp3" length="19792907" type="audio/mp3"/>
+    <itunes:duration>00:41:14</itunes:duration>
+    <guid>https://edmundip.github.io/iris/124.mp3</guid>
+  </item>
+  <item>
+    <title>123. 挾麵條</title>
+    <description>瞳瞳想出一個新的「挾麵條遊戲」教我玩。</description>
+    <itunes:summary>瞳瞳想出一個新的「挾麵條遊戲」教我玩。</itunes:summary>
+    <link>https://edmundip.github.io/iris/123.mp3</link>
+    <pubDate>Sun, 07 May 2017 12:21:59 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/123.mp3" length="5564519" type="audio/mp3"/>
+    <itunes:duration>00:11:36</itunes:duration>
+    <guid>https://edmundip.github.io/iris/123.mp3</guid>
+  </item>
+  <item>
+    <title>122. 媽媽入院</title>
+    <description>媽媽患痛入院。</description>
+    <itunes:summary>媽媽患痛入院。</itunes:summary>
+    <link>https://edmundip.github.io/iris/122.mp3</link>
+    <pubDate>Thu, 04 May 2017 15:42:53 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/122.mp3" length="10253361" type="audio/mp3"/>
+    <itunes:duration>00:21:22</itunes:duration>
+    <guid>https://edmundip.github.io/iris/122.mp3</guid>
+  </item>
+  <item>
+    <title>121. 爸爸肚子痛</title>
+    <description>瞳瞳解釋爸爸肚子痛的原因。</description>
+    <itunes:summary>瞳瞳解釋爸爸肚子痛的原因。</itunes:summary>
+    <link>https://edmundip.github.io/iris/121.mp3</link>
+    <pubDate>Wed, 03 May 2017 15:28:39 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/121.mp3" length="544190" type="audio/mp3"/>
+    <itunes:duration>00:01:08</itunes:duration>
+    <guid>https://edmundip.github.io/iris/121.mp3</guid>
+  </item>
   <item>
     <title>120. 潛水比賽</title>
     <description>瞳瞳和同學一起參加潛水比賽。</description>
