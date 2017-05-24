@@ -15,8 +15,58 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Wed, 10 May 2017 06:00:02 GMT</lastBuildDate>
-  <pubDate>Wed, 10 May 2017 06:00:02 GMT</pubDate>
+  <lastBuildDate>Wed, 24 May 2017 07:29:41 GMT</lastBuildDate>
+  <pubDate>Wed, 24 May 2017 07:29:41 GMT</pubDate>
+  <item>
+    <title>130. 瞳瞳的由來</title>
+    <description>瞳瞳是從人蛋孵化出來的！</description>
+    <itunes:summary>瞳瞳是從人蛋孵化出來的！</itunes:summary>
+    <link>https://edmundip.github.io/iris/130.mp3</link>
+    <pubDate>Mon, 22 May 2017 14:36:55 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/130.mp3" length="1940590" type="audio/mp3"/>
+    <itunes:duration>00:04:03</itunes:duration>
+    <guid>https://edmundip.github.io/iris/130.mp3</guid>
+  </item>
+  <item>
+    <title>129. 收銀機</title>
+    <description>爸爸和瞳瞳合力研製了一款新型收銀機。</description>
+    <itunes:summary>爸爸和瞳瞳合力研製了一款新型收銀機。</itunes:summary>
+    <link>https://edmundip.github.io/iris/129.mp3</link>
+    <pubDate>Sat, 20 May 2017 08:33:10 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/129.mp3" length="3432089" type="audio/mp3"/>
+    <itunes:duration>00:07:09</itunes:duration>
+    <guid>https://edmundip.github.io/iris/129.mp3</guid>
+  </item>
+  <item>
+    <title>128. 瞳瞳出世</title>
+    <description>爸爸在產房看著瞳瞳出世。</description>
+    <itunes:summary>爸爸在產房看著瞳瞳出世。</itunes:summary>
+    <link>https://edmundip.github.io/iris/128.mp3</link>
+    <pubDate>Fri, 19 May 2017 16:28:29 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/128.mp3" length="22548901" type="audio/mp3"/>
+    <itunes:duration>00:46:59</itunes:duration>
+    <guid>https://edmundip.github.io/iris/128.mp3</guid>
+  </item>
+  <item>
+    <title>127. 珈瑤暈倒</title>
+    <description>瞳瞳的同學在參觀途中暈倒。</description>
+    <itunes:summary>瞳瞳的同學在參觀途中暈倒。</itunes:summary>
+    <link>https://edmundip.github.io/iris/127.mp3</link>
+    <pubDate>Mon, 15 May 2017 15:43:37 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/127.mp3" length="8789896" type="audio/mp3"/>
+    <itunes:duration>00:18:19</itunes:duration>
+    <guid>https://edmundip.github.io/iris/127.mp3</guid>
+  </item>
+  <item>
+    <title>126. 琴姨跳水</title>
+    <description>瞳瞳和琴姨到泳池暢泳。</description>
+    <itunes:summary>瞳瞳和琴姨到泳池暢泳。</itunes:summary>
+    <link>https://edmundip.github.io/iris/126.mp3</link>
+    <pubDate>Sun, 14 May 2017 04:25:28 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/126.mp3" length="5923108" type="audio/mp3"/>
+    <itunes:duration>00:12:20</itunes:duration>
+    <guid>https://edmundip.github.io/iris/126.mp3</guid>
+  </item>
   <item>
     <title>125. 畢業紀念冊</title>
     <description>瞳瞳快將畢業，爸爸為她買了一本紀念冊。</description>
