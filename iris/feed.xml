@@ -15,8 +15,18 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Wed, 24 May 2017 07:29:41 GMT</lastBuildDate>
-  <pubDate>Wed, 24 May 2017 07:29:41 GMT</pubDate>
+  <lastBuildDate>Thu, 01 Jun 2017 20:58:00 GMT</lastBuildDate>
+  <pubDate>Thu, 01 Jun 2017 20:58:00 GMT</pubDate>
+  <item>
+    <title>131. 枕頭人</title>
+    <description>枕頭人病了，一班小朋友陪他看醫生和收拾房間。</description>
+    <itunes:summary>枕頭人病了，一班小朋友陪他看醫生和收拾房間。</itunes:summary>
+    <link>https://edmundip.github.io/iris/131.mp3</link>
+    <pubDate>Wed, 24 May 2017 16:28:30 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/131.mp3" length="5374149" type="audio/mp3"/>
+    <itunes:duration>00:11:12</itunes:duration>
+    <guid>https://edmundip.github.io/iris/131.mp3</guid>
+  </item>
   <item>
     <title>130. 瞳瞳的由來</title>
     <description>瞳瞳是從人蛋孵化出來的！</description>
