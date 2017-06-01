@@ -15,8 +15,8 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Thu, 01 Jun 2017 21:15:14 GMT</lastBuildDate>
-  <pubDate>Thu, 01 Jun 2017 21:15:14 GMT</pubDate>
+  <lastBuildDate>Thu, 01 Jun 2017 21:22:19 GMT</lastBuildDate>
+  <pubDate>Thu, 01 Jun 2017 21:22:19 GMT</pubDate>
   <item>
     <title>134. 童年往事</title>
     <description>瞳瞳和朗晴訴說她們的童年往事。</description>
@@ -29,21 +29,21 @@
   </item>
   <item>
     <title>133. 老師講故事</title>
-    <description>爸爸、瞳瞳和朗晴老師各講了一個故事。</description>
-    <itunes:summary>爸爸、瞳瞳和朗晴老師各講了一個故事。</itunes:summary>
+    <description>爸爸、瞳瞳和朗晴老師各講一個故事。</description>
+    <itunes:summary>爸爸、瞳瞳和朗晴老師各講一個故事。</itunes:summary>
     <link>https://edmundip.github.io/iris/133.mp3</link>
     <pubDate>Fri, 26 May 2017 12:26:57 GMT</pubDate>
-    <enclosure url="https://edmundip.github.io/iris/133.mp3" length="11349078" type="audio/mp3"/>
+    <enclosure url="https://edmundip.github.io/iris/133.mp3" length="11349075" type="audio/mp3"/>
     <itunes:duration>00:23:39</itunes:duration>
     <guid>https://edmundip.github.io/iris/133.mp3</guid>
   </item>
   <item>
     <title>132. 朗晴留宿</title>
-    <description>瞳瞳的同學妹妹將在我家留宿一天，我們會怎樣接代她？</description>
-    <itunes:summary>瞳瞳的同學妹妹將在我家留宿一天，我們會怎樣接代她？</itunes:summary>
+    <description>瞳瞳的同學妹妹將在我家留宿一天，我們準備怎樣接待她？</description>
+    <itunes:summary>瞳瞳的同學妹妹將在我家留宿一天，我們準備怎樣接待她？</itunes:summary>
     <link>https://edmundip.github.io/iris/132.mp3</link>
     <pubDate>Thu, 25 May 2017 17:42:23 GMT</pubDate>
-    <enclosure url="https://edmundip.github.io/iris/132.mp3" length="15805377" type="audio/mp3"/>
+    <enclosure url="https://edmundip.github.io/iris/132.mp3" length="15805380" type="audio/mp3"/>
     <itunes:duration>00:32:56</itunes:duration>
     <guid>https://edmundip.github.io/iris/132.mp3</guid>
   </item>
