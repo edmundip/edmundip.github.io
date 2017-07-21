@@ -15,8 +15,18 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Mon, 10 Jul 2017 04:49:14 GMT</lastBuildDate>
-  <pubDate>Mon, 10 Jul 2017 04:49:14 GMT</pubDate>
+  <lastBuildDate>Fri, 21 Jul 2017 03:01:50 GMT</lastBuildDate>
+  <pubDate>Fri, 21 Jul 2017 03:01:50 GMT</pubDate>
+  <item>
+    <title>158. 俊茗發燒</title>
+    <description>瞳瞳致電慰問因病沒有上課的俊茗。</description>
+    <itunes:summary>瞳瞳致電慰問因病沒有上課的俊茗。</itunes:summary>
+    <link>https://edmundip.github.io/iris/158.mp3</link>
+    <pubDate>Tue, 11 Jul 2017 15:29:04 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/158.mp3" length="15591773" type="audio/mp3"/>
+    <itunes:duration>00:32:29</itunes:duration>
+    <guid>https://edmundip.github.io/iris/158.mp3</guid>
+  </item>
   <item>
     <title>157. 畢業典禮</title>
     <description>在畢業禮上，瞳瞳代表其他同班同學領取畢業証書。</description>
@@ -24,7 +34,7 @@
     <link>https://edmundip.github.io/iris/157.mp3</link>
     <pubDate>Sun, 09 Jul 2017 15:50:58 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/157.mp3" length="39942514" type="audio/mp3"/>
-    <itunes:duration>01:83:13</itunes:duration>
+    <itunes:duration>01:23:13</itunes:duration>
     <guid>https://edmundip.github.io/iris/157.mp3</guid>
   </item>
   <item>
