@@ -15,8 +15,28 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Thu, 31 Aug 2017 04:50:35 GMT</lastBuildDate>
-  <pubDate>Thu, 31 Aug 2017 04:50:35 GMT</pubDate>
+  <lastBuildDate>Sat, 02 Sep 2017 16:42:32 GMT</lastBuildDate>
+  <pubDate>Sat, 02 Sep 2017 16:42:32 GMT</pubDate>
+  <item>
+    <title>175. 機動遊戲</title>
+    <description>爸爸分享他如何克服玩過山車的恐懼，藉此勉勵瞳瞳勇於面對小學新環境。</description>
+    <itunes:summary>爸爸分享他如何克服玩過山車的恐懼，藉此勉勵瞳瞳勇於面對小學新環境。</itunes:summary>
+    <link>https://edmundip.github.io/iris/175.mp3</link>
+    <pubDate>Sat, 02 Sep 2017 16:06:25 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/175.mp3" length="28286498" type="audio/mp3"/>
+    <itunes:duration>00:58:56</itunes:duration>
+    <guid>https://edmundip.github.io/iris/175.mp3</guid>
+  </item>
+  <item>
+    <title>174. MyiPhone</title>
+    <description>瞳瞳介紹她設計的最新款智能電話「MyiPhone」。</description>
+    <itunes:summary>瞳瞳介紹她設計的最新款智能電話「MyiPhone」。</itunes:summary>
+    <link>https://edmundip.github.io/iris/174.mp3</link>
+    <pubDate>Sat, 02 Sep 2017 14:14:57 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/174.mp3" length="6351332" type="audio/mp3"/>
+    <itunes:duration>00:13:14</itunes:duration>
+    <guid>https://edmundip.github.io/iris/174.mp3</guid>
+  </item>
   <item>
     <title>173. 尿兜蒼蠅</title>
     <description>為何洗手間內的每個尿兜總會發現蒼蠅？</description>
