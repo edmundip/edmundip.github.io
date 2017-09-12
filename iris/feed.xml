@@ -15,8 +15,78 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Sat, 02 Sep 2017 16:42:32 GMT</lastBuildDate>
-  <pubDate>Sat, 02 Sep 2017 16:42:32 GMT</pubDate>
+  <lastBuildDate>Tue, 12 Sep 2017 02:56:01 GMT</lastBuildDate>
+  <pubDate>Tue, 12 Sep 2017 02:56:01 GMT</pubDate>
+  <item>
+    <title>182. 參觀圖書館</title>
+    <description>爸爸帶領三個團員到圖書館參觀。</description>
+    <itunes:summary>爸爸帶領三個團員到圖書館參觀。</itunes:summary>
+    <link>https://edmundip.github.io/iris/182.mp3</link>
+    <pubDate>Sun, 10 Sep 2017 14:11:25 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/182.mp3" length="19312446" type="audio/mp3"/>
+    <itunes:duration>00:40:14</itunes:duration>
+    <guid>https://edmundip.github.io/iris/182.mp3</guid>
+  </item>
+  <item>
+    <title>181. 約會沅柔</title>
+    <description>我們約了沅柔同學一起打乒乓球。</description>
+    <itunes:summary>我們約了沅柔同學一起打乒乓球。</itunes:summary>
+    <link>https://edmundip.github.io/iris/181.mp3</link>
+    <pubDate>Sat, 09 Sep 2017 14:03:41 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/181.mp3" length="17638333" type="audio/mp3"/>
+    <itunes:duration>00:18:22</itunes:duration>
+    <guid>https://edmundip.github.io/iris/181.mp3</guid>
+  </item>
+  <item>
+    <title>180. 鞋子不見了</title>
+    <description>爸爸的鞋子為何不見了？</description>
+    <itunes:summary>爸爸的鞋子為何不見了？</itunes:summary>
+    <link>https://edmundip.github.io/iris/180.mp3</link>
+    <pubDate>Sat, 09 Sep 2017 00:31:39 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/180.mp3" length="3314210" type="audio/mp3"/>
+    <itunes:duration>00:06:54</itunes:duration>
+    <guid>https://edmundip.github.io/iris/180.mp3</guid>
+  </item>
+  <item>
+    <title>179. 紙飛鏢</title>
+    <description>爸爸摺了一隻紙飛鏢給瞳瞳。</description>
+    <itunes:summary>爸爸摺了一隻紙飛鏢給瞳瞳。</itunes:summary>
+    <link>https://edmundip.github.io/iris/179.mp3</link>
+    <pubDate>Fri, 08 Sep 2017 15:12:54 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/179.mp3" length="6163647" type="audio/mp3"/>
+    <itunes:duration>00:12:50</itunes:duration>
+    <guid>https://edmundip.github.io/iris/179.mp3</guid>
+  </item>
+  <item>
+    <title>178. 水運會</title>
+    <description>瞳瞳和舊同學一同參加學校水運會。</description>
+    <itunes:summary>瞳瞳和舊同學一同參加學校水運會。</itunes:summary>
+    <link>https://edmundip.github.io/iris/178.mp3</link>
+    <pubDate>Wed, 06 Sep 2017 15:12:10 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/178.mp3" length="10276792" type="audio/mp3"/>
+    <itunes:duration>00:21:25</itunes:duration>
+    <guid>https://edmundip.github.io/iris/178.mp3</guid>
+  </item>
+  <item>
+    <title>177. 爸爸生日</title>
+    <description>生日應是開開心心的，為何爸爸會在這天哭？</description>
+    <itunes:summary>生日應是開開心心的，為何爸爸會在這天哭？</itunes:summary>
+    <link>https://edmundip.github.io/iris/177.mp3</link>
+    <pubDate>Tue, 05 Sep 2017 14:47:31 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/177.mp3" length="7525173" type="audio/mp3"/>
+    <itunes:duration>00:15:41</itunes:duration>
+    <guid>https://edmundip.github.io/iris/177.mp3</guid>
+  </item>
+  <item>
+    <title>176. 爸爸切水果</title>
+    <description>爸爸切水果時不慎弄傷了手指，要盡快為他進行急救處理。</description>
+    <itunes:summary>爸爸切水果時不慎弄傷了手指，要盡快為他進行急救處理。</itunes:summary>
+    <link>https://edmundip.github.io/iris/176.mp3</link>
+    <pubDate>Tue, 05 Sep 2017 14:16:16 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/176.mp3" length="2955228" type="audio/mp3"/>
+    <itunes:duration>00:06:09</itunes:duration>
+    <guid>https://edmundip.github.io/iris/176.mp3</guid>
+  </item>
   <item>
     <title>175. 機動遊戲</title>
     <description>爸爸分享他如何克服玩過山車的恐懼，藉此勉勵瞳瞳勇於面對小學新環境。</description>
