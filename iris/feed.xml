@@ -15,8 +15,58 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Sat, 23 Sep 2017 23:27:49 GMT</lastBuildDate>
-  <pubDate>Sat, 23 Sep 2017 23:27:49 GMT</pubDate>
+  <lastBuildDate>Wed, 25 Oct 2017 03:51:07 GMT</lastBuildDate>
+  <pubDate>Wed, 25 Oct 2017 03:51:07 GMT</pubDate>
+  <item>
+    <title>190. 爸爸被蚊叮</title>
+    <description>爸爸被惡蚊叮至雙臂紅腫，痕癢難忍。</description>
+    <itunes:summary>爸爸被惡蚊叮至雙臂紅腫，痕癢難忍。</itunes:summary>
+    <link>https://edmundip.github.io/iris/190.mp3</link>
+    <pubDate>Mon, 23 Oct 2017 13:53:26 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/190.mp3" length="3118414" type="audio/mp3"/>
+    <itunes:duration>00:06:30</itunes:duration>
+    <guid>https://edmundip.github.io/iris/190.mp3</guid>
+  </item>
+  <item>
+    <title>189. 無記性爸爸</title>
+    <description>什麼事情也可忘卻，爸爸可真是一個健忘的人！</description>
+    <itunes:summary>什麼事情也可忘卻，爸爸可真是一個健忘的人！</itunes:summary>
+    <link>https://edmundip.github.io/iris/189.mp3</link>
+    <pubDate>Sun, 08 Oct 2017 10:39:18 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/189.mp3" length="11422021" type="audio/mp3"/>
+    <itunes:duration>00:23:48</itunes:duration>
+    <guid>https://edmundip.github.io/iris/189.mp3</guid>
+  </item>
+  <item>
+    <title>188. 臭脾氣小丟丟</title>
+    <description>小丟丟總愛發脾氣！</description>
+    <itunes:summary>小丟丟總愛發脾氣！</itunes:summary>
+    <link>https://edmundip.github.io/iris/188.mp3</link>
+    <pubDate>Tue, 03 Oct 2017 14:50:27 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/188.mp3" length="6086530" type="audio/mp3"/>
+    <itunes:duration>00:12:41</itunes:duration>
+    <guid>https://edmundip.github.io/iris/188.mp3</guid>
+  </item>
+  <item>
+    <title>187. 臭脾氣爸爸</title>
+    <description>在怒火中燒的瞳瞳心裡，爸爸是一個怎樣的人？！</description>
+    <itunes:summary>在怒火中燒的瞳瞳心裡，爸爸是一個怎樣的人？！</itunes:summary>
+    <link>https://edmundip.github.io/iris/187.mp3</link>
+    <pubDate>Mon, 02 Oct 2017 08:12:59 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/187.mp3" length="865211" type="audio/mp3"/>
+    <itunes:duration>00:01:48</itunes:duration>
+    <guid>https://edmundip.github.io/iris/187.mp3</guid>
+  </item>
+  <item>
+    <title>186. 媽媽的童年往事</title>
+    <description>媽媽訴說她的童年往事。</description>
+    <itunes:summary>媽媽訴說她的童年往事。</itunes:summary>
+    <link>https://edmundip.github.io/iris/186.mp3</link>
+    <pubDate>Sun, 01 Oct 2017 14:44:37 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/186.mp3" length="10520668" type="audio/mp3"/>
+    <itunes:duration>00:21:55</itunes:duration>
+    <guid>https://edmundip.github.io/iris/186.mp3</guid>
+  </item>
   <item>
     <title>185. 君豪同學</title>
     <description>君豪同學的行為惹人討厭，爸爸嘗試分析其背後動機和應對方法。</description>
