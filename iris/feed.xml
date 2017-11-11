@@ -15,8 +15,48 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Wed, 25 Oct 2017 03:51:07 GMT</lastBuildDate>
-  <pubDate>Wed, 25 Oct 2017 03:51:07 GMT</pubDate>
+  <lastBuildDate>Sat, 11 Nov 2017 21:16:42 GMT</lastBuildDate>
+  <pubDate>Sat, 11 Nov 2017 21:16:42 GMT</pubDate>
+  <item>
+    <title>194. 學習時間表</title>
+    <description>爸爸和瞳瞳一起製定學習時間表。</description>
+    <itunes:summary>爸爸和瞳瞳一起製定學習時間表。</itunes:summary>
+    <link>https://edmundip.github.io/iris/194.mp3</link>
+    <pubDate>Thu, 02 Nov 2017 15:03:07 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/194.mp3" length="8541637" type="audio/mp3"/>
+    <itunes:duration>00:17:48</itunes:duration>
+    <guid>https://edmundip.github.io/iris/194.mp3</guid>
+  </item>
+  <item>
+    <title>193. 生日禮物</title>
+    <description>瞳瞳會送什麼給她的親友？</description>
+    <itunes:summary>瞳瞳會送什麼給她的親友？</itunes:summary>
+    <link>https://edmundip.github.io/iris/193.mp3</link>
+    <pubDate>Sun, 29 Oct 2017 14:54:34 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/193.mp3" length="17232878" type="audio/mp3"/>
+    <itunes:duration>00:35:54</itunes:duration>
+    <guid>https://edmundip.github.io/iris/193.mp3</guid>
+  </item>
+  <item>
+    <title>192. 試用飯壺</title>
+    <description>為何爸爸會用瞳瞳的飯壺來吃飯？</description>
+    <itunes:summary>為何爸爸會用瞳瞳的飯壺來吃飯？</itunes:summary>
+    <link>https://edmundip.github.io/iris/192.mp3</link>
+    <pubDate>Sun, 29 Oct 2017 01:47:15 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/192.mp3" length="5322931" type="audio/mp3"/>
+    <itunes:duration>00:11:05</itunes:duration>
+    <guid>https://edmundip.github.io/iris/192.mp3</guid>
+  </item>
+  <item>
+    <title>191. 爸爸病了</title>
+    <description>爸爸因病未能上班，在家休息。</description>
+    <itunes:summary>爸爸因病未能上班，在家休息。</itunes:summary>
+    <link>https://edmundip.github.io/iris/191.mp3</link>
+    <pubDate>Sun, 29 Oct 2017 01:30:42 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/191.mp3" length="5969093" type="audio/mp3"/>
+    <itunes:duration>00:12:26</itunes:duration>
+    <guid>https://edmundip.github.io/iris/191.mp3</guid>
+  </item>
   <item>
     <title>190. 爸爸被蚊叮</title>
     <description>爸爸被惡蚊叮至雙臂紅腫，痕癢難忍。</description>
