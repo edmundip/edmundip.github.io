@@ -15,8 +15,18 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Sat, 11 Nov 2017 21:16:42 GMT</lastBuildDate>
-  <pubDate>Sat, 11 Nov 2017 21:16:42 GMT</pubDate>
+  <lastBuildDate>Sat, 11 Nov 2017 21:25:09 GMT</lastBuildDate>
+  <pubDate>Sat, 11 Nov 2017 21:25:09 GMT</pubDate>
+  <item>
+    <title>195. 愛打岔的小雞</title>
+    <description>小紅雞總愛打岔，令爸爸雞不能專心講故事。</description>
+    <itunes:summary>小紅雞總愛打岔，令爸爸雞不能專心講故事。</itunes:summary>
+    <link>https://edmundip.github.io/iris/195.mp3</link>
+    <pubDate>Sat, 11 Nov 2017 15:29:10 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/195.mp3" length="7114116" type="audio/mp3"/>
+    <itunes:duration>00:14:49</itunes:duration>
+    <guid>https://edmundip.github.io/iris/195.mp3</guid>
+  </item>
   <item>
     <title>194. 學習時間表</title>
     <description>爸爸和瞳瞳一起製定學習時間表。</description>
