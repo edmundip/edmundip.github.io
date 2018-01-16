@@ -15,8 +15,58 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Thu, 28 Dec 2017 08:13:07 GMT</lastBuildDate>
-  <pubDate>Thu, 28 Dec 2017 08:13:07 GMT</pubDate>
+  <lastBuildDate>Tue, 16 Jan 2018 06:21:59 GMT</lastBuildDate>
+  <pubDate>Tue, 16 Jan 2018 06:21:59 GMT</pubDate>
+  <item>
+    <title>211. 2018展望</title>
+    <description>爸爸和瞳瞳一同定下2018年的目標。</description>
+    <itunes:summary>爸爸和瞳瞳一同定下2018年的目標。</itunes:summary>
+    <link>https://edmundip.github.io/iris/211.mp3</link>
+    <pubDate>Sun, 14 Jan 2018 16:42:46 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/211.mp3" length="12828223" type="audio/mp3"/>
+    <itunes:duration>00:26:43</itunes:duration>
+    <guid>https://edmundip.github.io/iris/211.mp3</guid>
+  </item>
+  <item>
+    <title>210. 2017回顧</title>
+    <description>我們回顧了2017年發生的重要事情。</description>
+    <itunes:summary>我們回顧了2017年發生的重要事情。</itunes:summary>
+    <link>https://edmundip.github.io/iris/210.mp3</link>
+    <pubDate>Sat, 13 Jan 2018 16:13:11 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/210.mp3" length="15585500" type="audio/mp3"/>
+    <itunes:duration>00:32:28</itunes:duration>
+    <guid>https://edmundip.github.io/iris/210.mp3</guid>
+  </item>
+  <item>
+    <title>209. 爸爸作嘔</title>
+    <description>病了數星期的爸爸在巴士上嘔了兩次。</description>
+    <itunes:summary>病了數星期的爸爸在巴士上嘔了兩次。</itunes:summary>
+    <link>https://edmundip.github.io/iris/209.mp3</link>
+    <pubDate>Fri, 12 Jan 2018 16:29:53 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/209.mp3" length="14612916" type="audio/mp3"/>
+    <itunes:duration>00:30:27</itunes:duration>
+    <guid>https://edmundip.github.io/iris/209.mp3</guid>
+  </item>
+  <item>
+    <title>208. 唇語</title>
+    <description>若果不能說話，我們可以用唇語溝通嗎？</description>
+    <itunes:summary>若果不能說話，我們可以用唇語溝通嗎？</itunes:summary>
+    <link>https://edmundip.github.io/iris/208.mp3</link>
+    <pubDate>Tue, 02 Jan 2018 15:36:55 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/208.mp3" length="1861396" type="audio/mp3"/>
+    <itunes:duration>00:03:53</itunes:duration>
+    <guid>https://edmundip.github.io/iris/208.mp3</guid>
+  </item>
+  <item>
+    <title>207. 十一隻小豬</title>
+    <description>豬媽媽生了十一隻小豬。</description>
+    <itunes:summary>豬媽媽生了十一隻小豬。</itunes:summary>
+    <link>https://edmundip.github.io/iris/207.mp3</link>
+    <pubDate>Mon, 01 Jan 2018 15:25:27 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/207.mp3" length="4784172" type="audio/mp3"/>
+    <itunes:duration>00:09:58</itunes:duration>
+    <guid>https://edmundip.github.io/iris/207.mp3</guid>
+  </item>
   <item>
     <title>206. 雨川開放日@假設</title>
     <description>瞳瞳升上四年班後，參加開放日負責攤位遊戲和手工藝等工作。</description>
