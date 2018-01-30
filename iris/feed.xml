@@ -15,8 +15,28 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Tue, 16 Jan 2018 06:21:59 GMT</lastBuildDate>
-  <pubDate>Tue, 16 Jan 2018 06:21:59 GMT</pubDate>
+  <lastBuildDate>Tue, 30 Jan 2018 09:28:58 GMT</lastBuildDate>
+  <pubDate>Tue, 30 Jan 2018 09:28:58 GMT</pubDate>
+  <item>
+    <title>213. 保良局慈善步行</title>
+    <description>步行個多小時後，我們原已筋疲力竭，但最後竟是跑向終點，途中出現了什麼新動力？</description>
+    <itunes:summary>步行個多小時後，我們原已筋疲力竭，但最後竟是跑向終點，途中出現了什麼新動力？</itunes:summary>
+    <link>https://edmundip.github.io/iris/213.mp3</link>
+    <pubDate>Mon, 29 Jan 2018 15:24:57 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/213.mp3" length="31528214" type="audio/mp3"/>
+    <itunes:duration>01:5:41</itunes:duration>
+    <guid>https://edmundip.github.io/iris/213.mp3</guid>
+  </item>
+  <item>
+    <title>212. 親子工作坊</title>
+    <description>參加完學校舉辦的親子工作坊，常為小事發脾氣的瞳瞳對我的態度確有改善。</description>
+    <itunes:summary>參加完學校舉辦的親子工作坊，常為小事發脾氣的瞳瞳對我的態度確有改善。</itunes:summary>
+    <link>https://edmundip.github.io/iris/212.mp3</link>
+    <pubDate>Wed, 24 Jan 2018 15:21:14 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/212.mp3" length="15299050" type="audio/mp3"/>
+    <itunes:duration>00:31:52</itunes:duration>
+    <guid>https://edmundip.github.io/iris/212.mp3</guid>
+  </item>
   <item>
     <title>211. 2018展望</title>
     <description>爸爸和瞳瞳一同定下2018年的目標。</description>
