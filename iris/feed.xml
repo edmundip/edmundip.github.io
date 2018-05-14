@@ -15,8 +15,48 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Fri, 04 May 2018 05:57:17 GMT</lastBuildDate>
-  <pubDate>Fri, 04 May 2018 05:57:17 GMT</pubDate>
+  <lastBuildDate>Mon, 14 May 2018 04:07:02 GMT</lastBuildDate>
+  <pubDate>Mon, 14 May 2018 04:07:02 GMT</pubDate>
+  <item>
+    <title>236. 母親節</title>
+    <description>母親節到了，瞳瞳送了什麼給媽媽？</description>
+    <itunes:summary>母親節到了，瞳瞳送了什麼給媽媽？</itunes:summary>
+    <link>https://edmundip.github.io/iris/236.mp3</link>
+    <pubDate>Sun, 13 May 2018 14:42:37 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/236.mp3" length="9738043" type="audio/mp3"/>
+    <itunes:duration>00:20:17</itunes:duration>
+    <guid>https://edmundip.github.io/iris/236.mp3</guid>
+  </item>
+  <item>
+    <title>235. 學校打針</title>
+    <description>哪個小孩會怕打針？</description>
+    <itunes:summary>哪個小孩會怕打針？</itunes:summary>
+    <link>https://edmundip.github.io/iris/235.mp3</link>
+    <pubDate>Sat, 12 May 2018 01:50:37 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/235.mp3" length="17442684" type="audio/mp3"/>
+    <itunes:duration>00:36:20</itunes:duration>
+    <guid>https://edmundip.github.io/iris/235.mp3</guid>
+  </item>
+  <item>
+    <title>234. 學校游泳課</title>
+    <description>瞳瞳在學校上體育游泳課。</description>
+    <itunes:summary>瞳瞳在學校上體育游泳課。</itunes:summary>
+    <link>https://edmundip.github.io/iris/234.mp3</link>
+    <pubDate>Tue, 08 May 2018 15:22:52 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/234.mp3" length="11319385" type="audio/mp3"/>
+    <itunes:duration>00:23:35</itunes:duration>
+    <guid>https://edmundip.github.io/iris/234.mp3</guid>
+  </item>
+  <item>
+    <title>233. 澳門之旅</title>
+    <description>我們和瞳瞳的同學一起到澳門玩了兩天。</description>
+    <itunes:summary>我們和瞳瞳的同學一起到澳門玩了兩天。</itunes:summary>
+    <link>https://edmundip.github.io/iris/233.mp3</link>
+    <pubDate>Sun, 06 May 2018 14:04:55 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/233.mp3" length="20266443" type="audio/mp3"/>
+    <itunes:duration>00:42:13</itunes:duration>
+    <guid>https://edmundip.github.io/iris/233.mp3</guid>
+  </item>
   <item>
     <title>232. 小白兔琦琦@浸溫泉</title>
     <description>琦琦一家到渡假區浸溫泉。</description>
