@@ -15,8 +15,38 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Tue, 23 Oct 2018 02:21:11 GMT</lastBuildDate>
-  <pubDate>Tue, 23 Oct 2018 02:21:11 GMT</pubDate>
+  <lastBuildDate>Wed, 31 Oct 2018 09:39:25 GMT</lastBuildDate>
+  <pubDate>Wed, 31 Oct 2018 09:39:25 GMT</pubDate>
+  <item>
+    <title>273. 爸爸失眠</title>
+    <description>爸爸近日正為失眠困擾，正尋求有效的解決方法。</description>
+    <itunes:summary>爸爸近日正為失眠困擾，正尋求有效的解決方法。</itunes:summary>
+    <link>https://edmundip.github.io/iris/273.mp3</link>
+    <pubDate>Tue, 30 Oct 2018 14:51:07 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/273.mp3" length="6647464" type="audio/mp3"/>
+    <itunes:duration>00:13:51</itunes:duration>
+    <guid>https://edmundip.github.io/iris/273.mp3</guid>
+  </item>
+  <item>
+    <title>272. 小白兔琦琦@壁畫</title>
+    <description>小白兔的妹妹在家中的牆壁亂畫，爸爸非但沒加阻止，還依著葫蘆畫起來呢！</description>
+    <itunes:summary>小白兔的妹妹在家中的牆壁亂畫，爸爸非但沒加阻止，還依著葫蘆畫起來呢！</itunes:summary>
+    <link>https://edmundip.github.io/iris/272.mp3</link>
+    <pubDate>Sun, 28 Oct 2018 14:55:54 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/272.mp3" length="9939357" type="audio/mp3"/>
+    <itunes:duration>00:20:42</itunes:duration>
+    <guid>https://edmundip.github.io/iris/272.mp3</guid>
+  </item>
+  <item>
+    <title>271. 全禁電子煙</title>
+    <description>我們討論禁止電子煙的好與壞。</description>
+    <itunes:summary>我們討論禁止電子煙的好與壞。</itunes:summary>
+    <link>https://edmundip.github.io/iris/271.mp3</link>
+    <pubDate>Wed, 24 Oct 2018 15:16:06 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/271.mp3" length="14061621" type="audio/mp3"/>
+    <itunes:duration>00:29:18</itunes:duration>
+    <guid>https://edmundip.github.io/iris/271.mp3</guid>
+  </item>
   <item>
     <title>270. 小白兔琦琦@種子</title>
     <description>花貓老師給各小動物一粒種子，讓牠們在家種植。</description>
