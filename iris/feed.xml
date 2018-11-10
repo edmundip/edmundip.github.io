@@ -15,8 +15,38 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Wed, 31 Oct 2018 09:39:25 GMT</lastBuildDate>
-  <pubDate>Wed, 31 Oct 2018 09:39:25 GMT</pubDate>
+  <lastBuildDate>Sat, 10 Nov 2018 23:27:33 GMT</lastBuildDate>
+  <pubDate>Sat, 10 Nov 2018 23:27:33 GMT</pubDate>
+  <item>
+    <title>276. 小白兔琦琦@小豬見家長</title>
+    <description>小豬近日成績一落千丈，花貓老師要求面見家長，探討改善方法。</description>
+    <itunes:summary>小豬近日成績一落千丈，花貓老師要求面見家長，探討改善方法。</itunes:summary>
+    <link>https://edmundip.github.io/iris/276.mp3</link>
+    <pubDate>Sat, 10 Nov 2018 15:17:22 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/276.mp3" length="8484789" type="audio/mp3"/>
+    <itunes:duration>00:17:41</itunes:duration>
+    <guid>https://edmundip.github.io/iris/276.mp3</guid>
+  </item>
+  <item>
+    <title>275. 九因歌</title>
+    <description>瞳瞳剛學念乘數表，錯漏百出！</description>
+    <itunes:summary>瞳瞳剛學念乘數表，錯漏百出！</itunes:summary>
+    <link>https://edmundip.github.io/iris/275.mp3</link>
+    <pubDate>Thu, 08 Nov 2018 14:33:43 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/275.mp3" length="4168730" type="audio/mp3"/>
+    <itunes:duration>00:08:41</itunes:duration>
+    <guid>https://edmundip.github.io/iris/275.mp3</guid>
+  </item>
+  <item>
+    <title>274. 小白兔琦琦@動物小百科</title>
+    <description>花貓老師教授有關動物特徵的知識給同學。</description>
+    <itunes:summary>花貓老師教授有關動物特徵的知識給同學。</itunes:summary>
+    <link>https://edmundip.github.io/iris/274.mp3</link>
+    <pubDate>Sat, 03 Nov 2018 13:31:36 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/274.mp3" length="14963817" type="audio/mp3"/>
+    <itunes:duration>00:31:10</itunes:duration>
+    <guid>https://edmundip.github.io/iris/274.mp3</guid>
+  </item>
   <item>
     <title>273. 爸爸失眠</title>
     <description>爸爸近日正為失眠困擾，正尋求有效的解決方法。</description>
