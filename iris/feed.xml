@@ -15,12 +15,82 @@
   <itunes:image href="https://edmundip.github.io/iris/iris.jpg"/>
   <itunes:category text="Kids &amp; Family"/>
   <copyright>瞳瞳爸爸</copyright>
-  <lastBuildDate>Mon, 31 Dec 2018 06:34:56 GMT</lastBuildDate>
-  <pubDate>Mon, 31 Dec 2018 06:34:56 GMT</pubDate>
+  <lastBuildDate>Sat, 16 Mar 2019 23:46:38 GMT</lastBuildDate>
+  <pubDate>Sat, 16 Mar 2019 23:46:38 GMT</pubDate>
+  <item>
+    <title>293. 小白兔琦琦@小狗出院</title>
+    <description>在醫院養傷的小狗總釀著要出院！</description>
+    <itunes:summary>在醫院養傷的小狗總釀著要出院！</itunes:summary>
+    <link>https://edmundip.github.io/iris/293.mp3</link>
+    <pubDate>Sat, 02 Mar 2019 16:07:58 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/293.mp3" length="11886369" type="audio/mp3"/>
+    <itunes:duration>00:24:46</itunes:duration>
+    <guid>https://edmundip.github.io/iris/293.mp3</guid>
+  </item>
+  <item>
+    <title>292. 游泳課</title>
+    <description>在學校的游泳課上，瞳瞳不敢將頭浸至水下。</description>
+    <itunes:summary>在學校的游泳課上，瞳瞳不敢將頭浸至水下。</itunes:summary>
+    <link>https://edmundip.github.io/iris/292.mp3</link>
+    <pubDate>Wed, 27 Feb 2019 15:01:47 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/292.mp3" length="9532001" type="audio/mp3"/>
+    <itunes:duration>00:19:51</itunes:duration>
+    <guid>https://edmundip.github.io/iris/292.mp3</guid>
+  </item>
+  <item>
+    <title>291. 小白兔琦琦@背古詩</title>
+    <description>背誦是小白兔最弱的一環！</description>
+    <itunes:summary>背誦是小白兔最弱的一環！</itunes:summary>
+    <link>https://edmundip.github.io/iris/291.mp3</link>
+    <pubDate>Mon, 25 Feb 2019 14:51:22 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/291.mp3" length="8796802" type="audio/mp3"/>
+    <itunes:duration>00:18:20</itunes:duration>
+    <guid>https://edmundip.github.io/iris/291.mp3</guid>
+  </item>
+  <item>
+    <title>290. 小白兔琦琦@小狗入醫院</title>
+    <description>小狗勇救小花貓時受傷，需要入住醫院。</description>
+    <itunes:summary>小狗勇救小花貓時受傷，需要入住醫院。</itunes:summary>
+    <link>https://edmundip.github.io/iris/290.mp3</link>
+    <pubDate>Fri, 15 Feb 2019 16:06:59 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/290.mp3" length="10452990" type="audio/mp3"/>
+    <itunes:duration>00:21:47</itunes:duration>
+    <guid>https://edmundip.github.io/iris/290.mp3</guid>
+  </item>
+  <item>
+    <title>289. 送狗迎豬</title>
+    <description>在年三十晚，瞳瞳向爸爸拜年。</description>
+    <itunes:summary>在年三十晚，瞳瞳向爸爸拜年。</itunes:summary>
+    <link>https://edmundip.github.io/iris/289.mp3</link>
+    <pubDate>Mon, 04 Feb 2019 14:24:08 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/289.mp3" length="2984864" type="audio/mp3"/>
+    <itunes:duration>00:06:13</itunes:duration>
+    <guid>https://edmundip.github.io/iris/289.mp3</guid>
+  </item>
+  <item>
+    <title>288. 小白兔琦琦@失火</title>
+    <description>花貓老師家失火，英勇的小狗衝入火場，拯救了兩隻小花貓。</description>
+    <itunes:summary>花貓老師家失火，英勇的小狗衝入火場，拯救了兩隻小花貓。</itunes:summary>
+    <link>https://edmundip.github.io/iris/288.mp3</link>
+    <pubDate>Tue, 22 Jan 2019 14:26:49 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/288.mp3" length="4912750" type="audio/mp3"/>
+    <itunes:duration>00:10:14</itunes:duration>
+    <guid>https://edmundip.github.io/iris/288.mp3</guid>
+  </item>
+  <item>
+    <title>287. 小白兔琦琦@探望小花貓</title>
+    <description>小動物們一起到花貓老師家探望兩隻小花貓。</description>
+    <itunes:summary>小動物們一起到花貓老師家探望兩隻小花貓。</itunes:summary>
+    <link>https://edmundip.github.io/iris/287.mp3</link>
+    <pubDate>Tue, 15 Jan 2019 14:49:39 GMT</pubDate>
+    <enclosure url="https://edmundip.github.io/iris/287.mp3" length="8147324" type="audio/mp3"/>
+    <itunes:duration>00:16:58</itunes:duration>
+    <guid>https://edmundip.github.io/iris/287.mp3</guid>
+  </item>
   <item>
     <title>286. 小白兔琦琦@野外求生</title>
-    <description>在野外求生課上，小動物運用牠們的機智克服種種困難。</description>
-    <itunes:summary>在野外求生課上，小動物運用牠們的機智克服種種困難。</itunes:summary>
+    <description>在野外求生課上，小動物運用牠們的機智克服種種挑戰。</description>
+    <itunes:summary>在野外求生課上，小動物運用牠們的機智克服種種挑戰。</itunes:summary>
     <link>https://edmundip.github.io/iris/286.mp3</link>
     <pubDate>Sun, 30 Dec 2018 03:49:07 GMT</pubDate>
     <enclosure url="https://edmundip.github.io/iris/286.mp3" length="19312071" type="audio/mp3"/>
